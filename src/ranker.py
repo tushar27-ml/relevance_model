@@ -28,29 +28,54 @@ class RankerMLP(nn.Module):
 
 
 # -----------------------------
-# Training Function
+# Leakage-Free Training
 # -----------------------------
 
 def train_model(feature_path, model_path, scaler_path, epochs=30, batch_size=256):
 
-    data = np.load(feature_path)
+    data = np.load(feature_path, allow_pickle=True)
 
-    X = data[:, :-1]
-    y = data[:, -1]
+    X = data["X"]
+    y = data["y"]
+    queries = data["queries"]
 
-    # Train-validation split
-    X_train, X_val, y_train, y_val = train_test_split(
-        X, y, test_size=0.2, random_state=42, stratify=y
+    # ---------------------------------
+    # Query-Level Split (Critical Fix)
+    # ---------------------------------
+
+    unique_queries = np.unique(queries)
+
+    train_queries, val_queries = train_test_split(
+        unique_queries,
+        test_size=0.2,
+        random_state=42
     )
 
+    train_mask = np.isin(queries, train_queries)
+    val_mask = np.isin(queries, val_queries)
+
+    X_train, y_train = X[train_mask], y[train_mask]
+    X_val, y_val = X[val_mask], y[val_mask]
+
+    print("Train size:", len(X_train))
+    print("Val size:", len(X_val))
+    print("Unique train queries:", len(train_queries))
+    print("Unique val queries:", len(val_queries))
+
+    # ---------------------------------
     # Standardize
+    # ---------------------------------
+
     scaler = StandardScaler()
     X_train = scaler.fit_transform(X_train)
     X_val = scaler.transform(X_val)
 
     joblib.dump(scaler, scaler_path)
 
-    # Convert to torch tensors
+    # ---------------------------------
+    # Torch tensors
+    # ---------------------------------
+
     X_train = torch.tensor(X_train, dtype=torch.float32)
     y_train = torch.tensor(y_train, dtype=torch.float32).view(-1, 1)
 
@@ -59,22 +84,24 @@ def train_model(feature_path, model_path, scaler_path, epochs=30, batch_size=256
 
     model = RankerMLP(input_dim=X.shape[1])
 
-    # Handle class imbalance
-    pos_weight = torch.tensor([(len(y_train) - y_train.sum()) / y_train.sum()])
-    criterion = nn.BCEWithLogitsLoss(pos_weight=pos_weight)
+    # Class imbalance handling
+    pos_weight = torch.tensor(
+        [(len(y_train) - y_train.sum()) / y_train.sum()]
+    )
 
+    criterion = nn.BCEWithLogitsLoss(pos_weight=pos_weight)
     optimizer = optim.Adam(model.parameters(), lr=0.001)
 
     best_val_auc = 0
 
     for epoch in range(epochs):
+
         model.train()
-
         permutation = torch.randperm(X_train.size()[0])
-
         epoch_loss = 0
 
         for i in range(0, X_train.size()[0], batch_size):
+
             indices = permutation[i:i+batch_size]
             batch_x = X_train[indices]
             batch_y = y_train[indices]
@@ -94,9 +121,12 @@ def train_model(feature_path, model_path, scaler_path, epochs=30, batch_size=256
             val_probs = torch.sigmoid(val_outputs).numpy()
             val_auc = roc_auc_score(y_val.numpy(), val_probs)
 
-        print(f"Epoch {epoch+1}/{epochs} | Loss: {epoch_loss:.4f} | Val AUC: {val_auc:.4f}")
+        print(
+            f"Epoch {epoch+1}/{epochs} | "
+            f"Loss: {epoch_loss:.4f} | "
+            f"Val AUC: {val_auc:.4f}"
+        )
 
-        # Save best model
         if val_auc > best_val_auc:
             best_val_auc = val_auc
             torch.save(model.state_dict(), model_path)
@@ -107,7 +137,7 @@ def train_model(feature_path, model_path, scaler_path, epochs=30, batch_size=256
 
 if __name__ == "__main__":
     train_model(
-        feature_path="../data/processed/features.npy",
+        feature_path="../data/processed/features.npz",
         model_path="../models/ranker_mlp.pt",
         scaler_path="../models/feature_scaler.pkl"
     )

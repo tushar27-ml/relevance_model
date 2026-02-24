@@ -6,7 +6,7 @@ import joblib
 from sklearn.metrics.pairwise import cosine_similarity
 
 from feature_engineering import FeatureEngineer
-from reranker import RankerMLP
+from ranker import RankerMLP
 
 from vectorizer import HybridTfidfVectorizer
 
@@ -24,7 +24,7 @@ class DishRanker:
 
         self.scaler = joblib.load(scaler_path)
 
-        self.model = RankerMLP(input_dim=9)
+        self.model = RankerMLP(input_dim=8)
         self.model.load_state_dict(torch.load(model_path))
         self.model.eval()
 
@@ -46,7 +46,6 @@ class DishRanker:
 
         # 1️⃣ Vectorize query ONCE
         query_vec = self.fe.vectorizer.transform([query])
-
         # 2️⃣ Cosine similarity against ALL dishes (vectorized)
         tfidf_similarities = cosine_similarity(
             query_vec,
@@ -67,13 +66,12 @@ class DishRanker:
                     ingredient_list = []
 
             features = [
-                tfidf_similarities[idx],  # use precomputed similarity
+                tfidf_similarities[idx],
                 self.fe.word_overlap(query, row["dish_text"]),
                 self.fe.ingredient_overlap(query, ingredient_list),
                 self.fe.contains_token(query, str(row["flavor_profile"])),
                 self.fe.contains_token(query, str(row["course"])),
                 self.fe.contains_token(query, str(row["region"])),
-                int(query == str(row["name"]).lower()),
                 len(query.split()),
                 len(str(row["name"]).split())
             ]
@@ -81,7 +79,8 @@ class DishRanker:
             feature_matrix.append(features)
 
         feature_matrix = np.array(feature_matrix, dtype=np.float32)
-
+        
+        print("Feature matrix shape:", feature_matrix.shape)
         # 4️⃣ Scale
         feature_matrix = self.scaler.transform(feature_matrix)
 
@@ -98,7 +97,7 @@ class DishRanker:
         end = time.time()
 
         latency_ms = (end - start) * 1000
-
+        print(len(self.fe.build_feature_vector("test", self.dishes.iloc[0])))
         return results[:top_k], latency_ms
 
 
@@ -111,12 +110,12 @@ if __name__ == "__main__":
         scaler_path="../models/feature_scaler.pkl"
     )
 
-    query = "carrots milk sweet"
-
+    query = "west bengal milk sweet"
+    
     results, latency = ranker.rank(query, top_k=5)
 
     print("\nQuery:", query)
-    for dish, score in results:
-        print(f"{dish:30s} | {score:.4f}")
+    for dish,_ in results:
+        print(f"{dish:30s}")
 
     print(f"\nLatency: {latency:.2f} ms")

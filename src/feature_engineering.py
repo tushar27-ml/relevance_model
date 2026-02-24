@@ -99,7 +99,7 @@ class FeatureEngineer:
         features.append(self.contains_token(query, region))
 
         # 7. Exact name match
-        features.append(int(query == name))
+        #features.append(int(query == name))
 
         # 8. Query length
         features.append(len(query.split()))
@@ -138,7 +138,12 @@ def build_feature_dataset(train_pairs_path, dish_path, vectorizer_path, output_p
 
     feature_array = np.array(feature_rows, dtype=np.float32)
 
-    np.save(output_path, feature_array)
+    np.savez(
+    output_path,
+    X=feature_array[:, :-1],
+    y=feature_array[:, -1],
+    queries=train_df["query"].values
+)
 
     print(f"Feature matrix saved to {output_path}")
     print("Shape:", feature_array.shape)
@@ -148,8 +153,8 @@ def build_feature_dataset(train_pairs_path, dish_path, vectorizer_path, output_p
 
 if __name__ == "__main__":
     build_feature_dataset(
-        train_pairs_path="../data/processed/train_pairs_hard.csv",
+        train_pairs_path="../data/processed/train_hard_negatives.csv",
         dish_path="../data/processed/dishes_processed.csv",
         vectorizer_path="../models/hybrid_vectorizer.pkl",
-        output_path="../data/processed/features.npy"
+        output_path="../data/processed/features.npz"
     )
