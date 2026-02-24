@@ -93,7 +93,14 @@ Total model artifacts: **<5 MB**
 ✅ Meets <20MB constraint
 
 ---
+## Performane
 
+-"Recall@5 = 1.0"
+-ROC AUC - 0.994
+
+Due to the small catalog size and structured query generation, the task becomes highly separable, resulting in near-perfect Recall@5. More realistic large-scale datasets would likely reduce this metric. Data leakage is not present already verified
+
+---
 ## Multilingual Handling
 
 Supports:
