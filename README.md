@@ -158,6 +158,24 @@ Top results:
 
 ---
 
+
+
+
+
+Use of LLM Assistance
+
+Large Language Models were used strictly as development assistants for:
+
+Code structuring guidance
+
+Debugging support
+
+Documentation refinement
+
+The final architecture design, modeling decisions, training pipeline, feature engineering, and evaluation strategy were implemented and validated independently.
+No pretrained LLMs, APIs, or external model weights were used in training or inference.
+
+
 ## Setup Instructions
 
 ### 1. Install dependencies
