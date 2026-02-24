@@ -1,0 +1,4307 @@
+query,dish_name
+shakahari meetha,balu shahi
+yogurt meetha,balu shahi
+yogurt dessert,balu shahi
+west bengal meetha,balu shahi
+west bengal sweet,balu shahi
+maida flour dessert,balu shahi
+west bengal dish,balu shahi
+sweet dessert,balu shahi
+shakahari dish,balu shahi
+balu shahi,balu shahi
+balu shahi dessert,balu shahi
+vegetarian dessert,balu shahi
+maida flour meetha,balu shahi
+balu shahi meetha,balu shahi
+meetha meetha,balu shahi
+vegetarian dish,balu shahi
+maida flour sweet,balu shahi
+yogurt sweet,balu shahi
+meetha meetha,boondi
+shakahari meetha,boondi
+gram flour meetha,boondi
+rajasthan meetha,boondi
+boondi dessert,boondi
+gram flour dessert,boondi
+boondi,boondi
+ghee meetha,boondi
+sweet dessert,boondi
+rajasthan sweet,boondi
+shakahari dish,boondi
+vegetarian dessert,boondi
+boondi meetha,boondi
+gram flour sweet,boondi
+ghee sweet,boondi
+vegetarian dish,boondi
+ghee dessert,boondi
+rajasthan dish,boondi
+punjab meetha,gajar ka halwa
+gajar ka halwa meetha,gajar ka halwa
+punjab sweet,gajar ka halwa
+shakahari dish,gajar ka halwa
+carrots meetha,gajar ka halwa
+gajar ka,gajar ka halwa
+milk dessert,gajar ka halwa
+sweet dessert,gajar ka halwa
+vegetarian dish,gajar ka halwa
+shakahari meetha,gajar ka halwa
+gajar ka halwa dessert,gajar ka halwa
+carrots dessert,gajar ka halwa
+gajar ka halwa,gajar ka halwa
+meetha meetha,gajar ka halwa
+punjab dish,gajar ka halwa
+vegetarian dessert,gajar ka halwa
+carrots sweet,gajar ka halwa
+milk meetha,gajar ka halwa
+milk sweet,gajar ka halwa
+meetha meetha,ghevar
+shakahari meetha,ghevar
+flour meetha,ghevar
+rajasthan meetha,ghevar
+ghee meetha,ghevar
+ghevar dessert,ghevar
+ghevar,ghevar
+flour dessert,ghevar
+sweet dessert,ghevar
+rajasthan sweet,ghevar
+shakahari dish,ghevar
+vegetarian dessert,ghevar
+flour sweet,ghevar
+ghevar meetha,ghevar
+ghee sweet,ghevar
+vegetarian dish,ghevar
+ghee dessert,ghevar
+rajasthan dish,ghevar
+plain flour sweet,gulab jamun
+shakahari meetha,gulab jamun
+gulab jamun meetha,gulab jamun
+west bengal meetha,gulab jamun
+west bengal sweet,gulab jamun
+milk powder sweet,gulab jamun
+west bengal dish,gulab jamun
+sweet dessert,gulab jamun
+shakahari dish,gulab jamun
+gulab jamun,gulab jamun
+plain flour meetha,gulab jamun
+vegetarian dessert,gulab jamun
+milk powder meetha,gulab jamun
+gulab jamun dessert,gulab jamun
+plain flour dessert,gulab jamun
+meetha meetha,gulab jamun
+vegetarian dish,gulab jamun
+milk powder dessert,gulab jamun
+shakahari meetha,imarti
+west bengal meetha,imarti
+west bengal sweet,imarti
+lentil flour sweet,imarti
+imarti dessert,imarti
+lentil flour dessert,imarti
+west bengal dish,imarti
+sweet dessert,imarti
+imarti meetha,imarti
+shakahari dish,imarti
+sugar syrup sweet,imarti
+vegetarian dessert,imarti
+sugar syrup dessert,imarti
+imarti,imarti
+lentil flour meetha,imarti
+meetha meetha,imarti
+vegetarian dish,imarti
+sugar syrup meetha,imarti
+shakahari meetha,jalebi
+corn flour meetha,jalebi
+uttar pradesh sweet,jalebi
+jalebi meetha,jalebi
+jalebi,jalebi
+jalebi dessert,jalebi
+sweet dessert,jalebi
+maida meetha,jalebi
+shakahari dish,jalebi
+maida sweet,jalebi
+uttar pradesh dish,jalebi
+uttar pradesh meetha,jalebi
+maida dessert,jalebi
+corn flour dessert,jalebi
+vegetarian dessert,jalebi
+meetha meetha,jalebi
+vegetarian dish,jalebi
+corn flour sweet,jalebi
+meetha meetha,kaju katli
+shakahari meetha,kaju katli
+cashews dessert,kaju katli
+cashews sweet,kaju katli
+unknown meetha,kaju katli
+ghee meetha,kaju katli
+sweet dessert,kaju katli
+shakahari dish,kaju katli
+ghee sweet,kaju katli
+cashews meetha,kaju katli
+kaju katli meetha,kaju katli
+vegetarian dessert,kaju katli
+kaju katli dessert,kaju katli
+unknown dish,kaju katli
+kaju katli,kaju katli
+unknown sweet,kaju katli
+vegetarian dish,kaju katli
+ghee dessert,kaju katli
+milk meetha,kalakand
+kalakand meetha,kalakand
+shakahari meetha,kalakand
+west bengal meetha,kalakand
+west bengal sweet,kalakand
+kalakand dessert,kalakand
+west bengal dish,kalakand
+cottage cheese sweet,kalakand
+kalakand,kalakand
+sweet dessert,kalakand
+shakahari dish,kalakand
+milk dessert,kalakand
+vegetarian dessert,kalakand
+cottage cheese meetha,kalakand
+meetha meetha,kalakand
+vegetarian dish,kalakand
+cottage cheese dessert,kalakand
+milk sweet,kalakand
+meetha meetha,kheer
+rice sweet,kheer
+milk meetha,kheer
+shakahari meetha,kheer
+kheer meetha,kheer
+unknown meetha,kheer
+sweet dessert,kheer
+rice meetha,kheer
+shakahari dish,kheer
+milk dessert,kheer
+unknown dish,kheer
+vegetarian dessert,kheer
+rice dessert,kheer
+kheer dessert,kheer
+unknown sweet,kheer
+vegetarian dish,kheer
+kheer,kheer
+milk sweet,kheer
+meetha meetha,laddu
+shakahari meetha,laddu
+laddu meetha,laddu
+gram flour meetha,laddu
+unknown meetha,laddu
+gram flour dessert,laddu
+ghee meetha,laddu
+sweet dessert,laddu
+laddu dessert,laddu
+ghee sweet,laddu
+shakahari dish,laddu
+vegetarian dessert,laddu
+unknown dish,laddu
+gram flour sweet,laddu
+laddu,laddu
+unknown sweet,laddu
+vegetarian dish,laddu
+ghee dessert,laddu
+punjab dish,lassi
+milk meetha,lassi
+yogurt meetha,lassi
+lassi,lassi
+yogurt dessert,lassi
+punjab meetha,lassi
+shakahari meetha,lassi
+punjab sweet,lassi
+milk sweet,lassi
+sweet dessert,lassi
+shakahari dish,lassi
+milk dessert,lassi
+vegetarian dessert,lassi
+lassi dessert,lassi
+lassi meetha,lassi
+meetha meetha,lassi
+vegetarian dish,lassi
+yogurt sweet,lassi
+nankhatai dessert,nankhatai
+shakahari meetha,nankhatai
+meetha meetha,nankhatai
+besan sweet,nankhatai
+refined flour meetha,nankhatai
+unknown meetha,nankhatai
+besan meetha,nankhatai
+nankhatai,nankhatai
+sweet dessert,nankhatai
+shakahari dish,nankhatai
+refined flour dessert,nankhatai
+besan dessert,nankhatai
+nankhatai meetha,nankhatai
+vegetarian dessert,nankhatai
+unknown dish,nankhatai
+refined flour sweet,nankhatai
+unknown sweet,nankhatai
+vegetarian dish,nankhatai
+firm white pumpkin sweet,petha
+shakahari meetha,petha
+uttar pradesh sweet,petha
+petha,petha
+petha dessert,petha
+sugar dessert,petha
+sweet dessert,petha
+firm white pumpkin meetha,petha
+petha meetha,petha
+uttar pradesh dish,petha
+shakahari dish,petha
+uttar pradesh meetha,petha
+firm white pumpkin dessert,petha
+vegetarian dessert,petha
+sugar meetha,petha
+sugar sweet,petha
+meetha meetha,petha
+vegetarian dish,petha
+meetha meetha,phirni
+rice sweet,phirni
+phirni dessert,phirni
+odisha meetha,phirni
+shakahari meetha,phirni
+phirni,phirni
+odisha sweet,phirni
+sugar dessert,phirni
+sweet dessert,phirni
+rice meetha,phirni
+shakahari dish,phirni
+vegetarian dessert,phirni
+sugar meetha,phirni
+rice dessert,phirni
+sugar sweet,phirni
+phirni meetha,phirni
+odisha dish,phirni
+vegetarian dish,phirni
+rabri meetha,rabri
+shakahari meetha,rabri
+uttar pradesh sweet,rabri
+condensed milk meetha,rabri
+sugar dessert,rabri
+sweet dessert,rabri
+condensed milk sweet,rabri
+shakahari dish,rabri
+uttar pradesh dish,rabri
+rabri,rabri
+uttar pradesh meetha,rabri
+vegetarian dessert,rabri
+sugar meetha,rabri
+sugar sweet,rabri
+meetha meetha,rabri
+vegetarian dish,rabri
+condensed milk dessert,rabri
+rabri dessert,rabri
+meetha meetha,sheera
+shakahari meetha,sheera
+sheera,sheera
+semolina sweet,sheera
+ghee meetha,sheera
+maharashtra meetha,sheera
+sheera meetha,sheera
+sweet dessert,sheera
+semolina meetha,sheera
+shakahari dish,sheera
+maharashtra dish,sheera
+maharashtra sweet,sheera
+vegetarian dessert,sheera
+ghee sweet,sheera
+vegetarian dish,sheera
+ghee dessert,sheera
+semolina dessert,sheera
+sheera dessert,sheera
+meetha meetha,singori
+shakahari meetha,singori
+singori meetha,singori
+uttarakhand sweet,singori
+uttarakhand meetha,singori
+khoa dessert,singori
+uttarakhand dish,singori
+coconut dessert,singori
+sweet dessert,singori
+shakahari dish,singori
+coconut sweet,singori
+vegetarian dessert,singori
+singori,singori
+khoa sweet,singori
+vegetarian dish,singori
+coconut meetha,singori
+khoa meetha,singori
+singori dessert,singori
+meetha meetha,sohan halwa
+shakahari meetha,sohan halwa
+corn flour meetha,sohan halwa
+uttar pradesh sweet,sohan halwa
+ghee meetha,sohan halwa
+sohan halwa,sohan halwa
+corn flour dessert,sohan halwa
+sweet dessert,sohan halwa
+shakahari dish,sohan halwa
+sohan halwa dessert,sohan halwa
+uttar pradesh dish,sohan halwa
+sohan halwa meetha,sohan halwa
+uttar pradesh meetha,sohan halwa
+vegetarian dessert,sohan halwa
+corn flour sweet,sohan halwa
+ghee sweet,sohan halwa
+vegetarian dish,sohan halwa
+ghee dessert,sohan halwa
+meetha meetha,sohan papdi
+shakahari meetha,sohan papdi
+gram flour meetha,sohan papdi
+sohan papdi,sohan papdi
+ghee meetha,sohan papdi
+gram flour dessert,sohan papdi
+maharashtra meetha,sohan papdi
+sweet dessert,sohan papdi
+shakahari dish,sohan papdi
+maharashtra dish,sohan papdi
+sohan papdi dessert,sohan papdi
+maharashtra sweet,sohan papdi
+vegetarian dessert,sohan papdi
+gram flour sweet,sohan papdi
+sohan papdi meetha,sohan papdi
+ghee sweet,sohan papdi
+vegetarian dish,sohan papdi
+ghee dessert,sohan papdi
+meetha meetha,chhena jalebi
+odisha meetha,chhena jalebi
+shakahari meetha,chhena jalebi
+chhena jalebi dessert,chhena jalebi
+odisha sweet,chhena jalebi
+chhena jalebi meetha,chhena jalebi
+sugar dessert,chhena jalebi
+sweet dessert,chhena jalebi
+shakahari dish,chhena jalebi
+chhena jalebi,chhena jalebi
+chhena meetha,chhena jalebi
+chhena sweet,chhena jalebi
+vegetarian dessert,chhena jalebi
+vegetarian dish,chhena jalebi
+sugar meetha,chhena jalebi
+sugar sweet,chhena jalebi
+odisha dish,chhena jalebi
+chhena dessert,chhena jalebi
+meetha meetha,chhena kheeri
+odisha meetha,chhena kheeri
+shakahari meetha,chhena kheeri
+odisha sweet,chhena kheeri
+chhena kheeri meetha,chhena kheeri
+sugar dessert,chhena kheeri
+sweet dessert,chhena kheeri
+shakahari dish,chhena kheeri
+chhena meetha,chhena kheeri
+chhena kheeri,chhena kheeri
+chhena sweet,chhena kheeri
+vegetarian dessert,chhena kheeri
+vegetarian dish,chhena kheeri
+sugar meetha,chhena kheeri
+sugar sweet,chhena kheeri
+odisha dish,chhena kheeri
+chhena dessert,chhena kheeri
+chhena kheeri dessert,chhena kheeri
+chhena poda,chhena poda
+odisha meetha,chhena poda
+chenna cheese sweet,chhena poda
+shakahari meetha,chhena poda
+meetha meetha,chhena poda
+odisha sweet,chhena poda
+sugar dessert,chhena poda
+chhena poda meetha,chhena poda
+sweet dessert,chhena poda
+chenna cheese meetha,chhena poda
+shakahari dish,chhena poda
+chhena poda dessert,chhena poda
+vegetarian dessert,chhena poda
+chenna cheese dessert,chhena poda
+sugar meetha,chhena poda
+sugar sweet,chhena poda
+odisha dish,chhena poda
+vegetarian dish,chhena poda
+meetha meetha,cham cham
+shakahari meetha,cham cham
+flour meetha,cham cham
+west bengal meetha,cham cham
+west bengal sweet,cham cham
+west bengal dish,cham cham
+sweet dessert,cham cham
+shakahari dish,cham cham
+cream sweet,cham cham
+cham cham,cham cham
+cham cham dessert,cham cham
+cham cham meetha,cham cham
+vegetarian dessert,cham cham
+cream meetha,cham cham
+flour sweet,cham cham
+flour dessert,cham cham
+vegetarian dish,cham cham
+cream dessert,cham cham
+meetha meetha,kheer sagar
+odisha meetha,kheer sagar
+shakahari meetha,kheer sagar
+odisha sweet,kheer sagar
+condensed milk meetha,kheer sagar
+sweet dessert,kheer sagar
+condensed milk sweet,kheer sagar
+kheer sagar,kheer sagar
+kheer sagar dessert,kheer sagar
+shakahari dish,kheer sagar
+vegetarian dessert,kheer sagar
+chenna dessert,kheer sagar
+chenna sweet,kheer sagar
+kheer sagar meetha,kheer sagar
+odisha dish,kheer sagar
+vegetarian dish,kheer sagar
+condensed milk dessert,kheer sagar
+chenna meetha,kheer sagar
+meetha meetha,ledikeni
+shakahari meetha,ledikeni
+west bengal meetha,ledikeni
+west bengal sweet,ledikeni
+ledikeni dessert,ledikeni
+ledikeni,ledikeni
+sugar dessert,ledikeni
+west bengal dish,ledikeni
+sweet dessert,ledikeni
+shakahari dish,ledikeni
+chhena meetha,ledikeni
+chhena sweet,ledikeni
+vegetarian dessert,ledikeni
+vegetarian dish,ledikeni
+sugar meetha,ledikeni
+sugar sweet,ledikeni
+ledikeni meetha,ledikeni
+chhena dessert,ledikeni
+lyangcha meetha,lyangcha
+shakahari meetha,lyangcha
+meetha meetha,lyangcha
+assam sweet,lyangcha
+assam meetha,lyangcha
+flour meetha,lyangcha
+lyangcha,lyangcha
+flour sweet,lyangcha
+fried milk power meetha,lyangcha
+sweet dessert,lyangcha
+shakahari dish,lyangcha
+lyangcha dessert,lyangcha
+fried milk power sweet,lyangcha
+vegetarian dessert,lyangcha
+assam dish,lyangcha
+flour dessert,lyangcha
+vegetarian dish,lyangcha
+fried milk power dessert,lyangcha
+malapua dessert,malapua
+shakahari meetha,malapua
+yoghurt dessert,malapua
+yoghurt sweet,malapua
+malapua meetha,malapua
+malapua,malapua
+refined flour meetha,malapua
+bihar meetha,malapua
+sweet dessert,malapua
+shakahari dish,malapua
+refined flour dessert,malapua
+vegetarian dessert,malapua
+bihar sweet,malapua
+refined flour sweet,malapua
+yoghurt meetha,malapua
+meetha meetha,malapua
+vegetarian dish,malapua
+bihar dish,malapua
+shakahari meetha,mihidana
+mihidana,mihidana
+west bengal meetha,mihidana
+mihidana meetha,mihidana
+west bengal sweet,mihidana
+sugar dessert,mihidana
+west bengal dish,mihidana
+sweet dessert,mihidana
+shakahari dish,mihidana
+besan flour meetha,mihidana
+besan flour sweet,mihidana
+besan flour dessert,mihidana
+vegetarian dessert,mihidana
+sugar meetha,mihidana
+sugar sweet,mihidana
+mihidana dessert,mihidana
+meetha meetha,mihidana
+vegetarian dish,mihidana
+milk meetha,misti doi
+shakahari meetha,misti doi
+jaggery dessert,misti doi
+jaggery sweet,misti doi
+jaggery meetha,misti doi
+west bengal meetha,misti doi
+west bengal sweet,misti doi
+misti doi,misti doi
+west bengal dish,misti doi
+sweet dessert,misti doi
+shakahari dish,misti doi
+milk dessert,misti doi
+vegetarian dessert,misti doi
+misti doi dessert,misti doi
+misti doi meetha,misti doi
+meetha meetha,misti doi
+vegetarian dish,misti doi
+milk sweet,misti doi
+shakahari meetha,pantua
+chhena dessert,pantua
+west bengal meetha,pantua
+west bengal sweet,pantua
+pantua dessert,pantua
+sugar dessert,pantua
+west bengal dish,pantua
+pantua meetha,pantua
+shakahari dish,pantua
+chhena meetha,pantua
+pantua,pantua
+chhena sweet,pantua
+vegetarian dessert,pantua
+vegetarian dish,pantua
+sugar meetha,pantua
+sugar sweet,pantua
+meetha meetha,pantua
+sweet dessert,pantua
+pithe dessert,pithe
+rice flour sweet,pithe
+wheat flour sweet,pithe
+assam sweet,pithe
+assam meetha,pithe
+wheat flour meetha,pithe
+rice flour dessert,pithe
+shakahari meetha,pithe
+sweet dessert,pithe
+shakahari dish,pithe
+wheat flour dessert,pithe
+rice flour meetha,pithe
+pithe,pithe
+vegetarian dessert,pithe
+assam dish,pithe
+pithe meetha,pithe
+meetha meetha,pithe
+vegetarian dish,pithe
+meetha meetha,rasabali
+odisha meetha,rasabali
+shakahari meetha,rasabali
+sweetened milk dessert,rasabali
+sweetened milk sweet,rasabali
+odisha sweet,rasabali
+rasabali,rasabali
+rasabali dessert,rasabali
+sweet dessert,rasabali
+rasabali meetha,rasabali
+shakahari dish,rasabali
+vegetarian dessert,rasabali
+sweetened milk meetha,rasabali
+chenna dessert,rasabali
+chenna sweet,rasabali
+odisha dish,rasabali
+vegetarian dish,rasabali
+chenna meetha,rasabali
+shakahari meetha,ras malai
+ras malai dessert,ras malai
+chhena dessert,ras malai
+reduced milk dessert,ras malai
+west bengal sweet,ras malai
+west bengal meetha,ras malai
+west bengal dish,ras malai
+shakahari dish,ras malai
+reduced milk sweet,ras malai
+reduced milk meetha,ras malai
+chhena meetha,ras malai
+ras malai meetha,ras malai
+chhena sweet,ras malai
+vegetarian dessert,ras malai
+vegetarian dish,ras malai
+meetha meetha,ras malai
+sweet dessert,ras malai
+ras malai,ras malai
+shakahari meetha,rasgulla
+rasgulla dessert,rasgulla
+chhena dessert,rasgulla
+west bengal sweet,rasgulla
+rasgulla meetha,rasgulla
+sugar dessert,rasgulla
+west bengal meetha,rasgulla
+rasgulla,rasgulla
+west bengal dish,rasgulla
+shakahari dish,rasgulla
+chhena meetha,rasgulla
+chhena sweet,rasgulla
+vegetarian dessert,rasgulla
+vegetarian dish,rasgulla
+sugar meetha,rasgulla
+sugar sweet,rasgulla
+meetha meetha,rasgulla
+sweet dessert,rasgulla
+milk meetha,sandesh
+shakahari meetha,sandesh
+sandesh dessert,sandesh
+west bengal meetha,sandesh
+west bengal sweet,sandesh
+sugar dessert,sandesh
+sandesh meetha,sandesh
+west bengal dish,sandesh
+sandesh,sandesh
+sweet dessert,sandesh
+shakahari dish,sandesh
+milk dessert,sandesh
+vegetarian dessert,sandesh
+sugar meetha,sandesh
+sugar sweet,sandesh
+meetha meetha,sandesh
+vegetarian dish,sandesh
+milk sweet,sandesh
+rice flour sweet,adhirasam
+shakahari meetha,adhirasam
+jaggery meetha,adhirasam
+jaggery sweet,adhirasam
+west bengal meetha,adhirasam
+rice flour dessert,adhirasam
+west bengal sweet,adhirasam
+adhirasam meetha,adhirasam
+west bengal dish,adhirasam
+sweet dessert,adhirasam
+shakahari dish,adhirasam
+adhirasam dessert,adhirasam
+rice flour meetha,adhirasam
+adhirasam,adhirasam
+vegetarian dessert,adhirasam
+meetha meetha,adhirasam
+vegetarian dish,adhirasam
+jaggery dessert,adhirasam
+rice flour sweet,ariselu
+shakahari meetha,ariselu
+jaggery meetha,ariselu
+ariselu dessert,ariselu
+jaggery sweet,ariselu
+rice flour dessert,ariselu
+andhra pradesh sweet,ariselu
+andhra pradesh dish,ariselu
+sweet dessert,ariselu
+shakahari dish,ariselu
+rice flour meetha,ariselu
+ariselu meetha,ariselu
+vegetarian dessert,ariselu
+ariselu,ariselu
+andhra pradesh meetha,ariselu
+meetha meetha,ariselu
+vegetarian dish,ariselu
+jaggery dessert,ariselu
+meetha meetha,bandar laddu
+shakahari meetha,bandar laddu
+bandar laddu meetha,bandar laddu
+besan sweet,bandar laddu
+jaggery sweet,bandar laddu
+jaggery meetha,bandar laddu
+andhra pradesh sweet,bandar laddu
+andhra pradesh dish,bandar laddu
+besan meetha,bandar laddu
+sweet dessert,bandar laddu
+bandar laddu dessert,bandar laddu
+shakahari dish,bandar laddu
+besan dessert,bandar laddu
+vegetarian dessert,bandar laddu
+andhra pradesh meetha,bandar laddu
+bandar laddu,bandar laddu
+vegetarian dish,bandar laddu
+jaggery dessert,bandar laddu
+meetha meetha,chikki
+shakahari meetha,chikki
+jaggery meetha,chikki
+jaggery sweet,chikki
+chikki meetha,chikki
+maharashtra meetha,chikki
+peanuts meetha,chikki
+sweet dessert,chikki
+shakahari dish,chikki
+chikki dessert,chikki
+maharashtra dish,chikki
+chikki,chikki
+maharashtra sweet,chikki
+vegetarian dessert,chikki
+peanuts dessert,chikki
+peanuts sweet,chikki
+vegetarian dish,chikki
+jaggery dessert,chikki
+milk meetha,dharwad pedha
+shakahari meetha,dharwad pedha
+dharwad pedha dessert,dharwad pedha
+dharwad pedha meetha,dharwad pedha
+karnataka meetha,dharwad pedha
+sugar dessert,dharwad pedha
+dharwad pedha,dharwad pedha
+sweet dessert,dharwad pedha
+shakahari dish,dharwad pedha
+karnataka dish,dharwad pedha
+milk dessert,dharwad pedha
+vegetarian dessert,dharwad pedha
+karnataka sweet,dharwad pedha
+sugar meetha,dharwad pedha
+sugar sweet,dharwad pedha
+meetha meetha,dharwad pedha
+vegetarian dish,dharwad pedha
+milk sweet,dharwad pedha
+loaf bread dessert,double ka meetha
+double ka meetha dessert,double ka meetha
+shakahari dish,double ka meetha
+milk dessert,double ka meetha
+telangana meetha,double ka meetha
+sweet dessert,double ka meetha
+vegetarian dish,double ka meetha
+loaf bread meetha,double ka meetha
+shakahari meetha,double ka meetha
+telangana dish,double ka meetha
+double ka,double ka meetha
+double ka meetha,double ka meetha
+meetha meetha,double ka meetha
+telangana sweet,double ka meetha
+double ka meetha meetha,double ka meetha
+loaf bread sweet,double ka meetha
+vegetarian dessert,double ka meetha
+milk meetha,double ka meetha
+milk sweet,double ka meetha
+rice flour sweet,gavvalu
+shakahari meetha,gavvalu
+rice flour dessert,gavvalu
+andhra pradesh meetha,gavvalu
+sugar dessert,gavvalu
+andhra pradesh dish,gavvalu
+andhra pradesh sweet,gavvalu
+gavvalu dessert,gavvalu
+sweet dessert,gavvalu
+shakahari dish,gavvalu
+rice flour meetha,gavvalu
+vegetarian dessert,gavvalu
+sugar meetha,gavvalu
+sugar sweet,gavvalu
+gavvalu,gavvalu
+meetha meetha,gavvalu
+vegetarian dish,gavvalu
+gavvalu meetha,gavvalu
+wheat flour sweet,kakinada khaja
+kakinada khaja dessert,kakinada khaja
+shakahari meetha,kakinada khaja
+kakinada khaja meetha,kakinada khaja
+wheat flour meetha,kakinada khaja
+sugar dessert,kakinada khaja
+andhra pradesh dish,kakinada khaja
+andhra pradesh sweet,kakinada khaja
+shakahari dish,kakinada khaja
+wheat flour dessert,kakinada khaja
+kakinada khaja,kakinada khaja
+vegetarian dish,kakinada khaja
+vegetarian dessert,kakinada khaja
+sugar meetha,kakinada khaja
+sugar sweet,kakinada khaja
+andhra pradesh meetha,kakinada khaja
+meetha meetha,kakinada khaja
+sweet dessert,kakinada khaja
+kerala dish,kuzhi paniyaram
+rice sweet,kuzhi paniyaram
+black lentils meetha,kuzhi paniyaram
+black lentils sweet,kuzhi paniyaram
+shakahari meetha,kuzhi paniyaram
+black lentils dessert,kuzhi paniyaram
+sweet dessert,kuzhi paniyaram
+rice meetha,kuzhi paniyaram
+shakahari dish,kuzhi paniyaram
+kuzhi paniyaram dessert,kuzhi paniyaram
+kerala meetha,kuzhi paniyaram
+vegetarian dessert,kuzhi paniyaram
+kuzhi paniyaram meetha,kuzhi paniyaram
+rice dessert,kuzhi paniyaram
+kuzhi paniyaram,kuzhi paniyaram
+meetha meetha,kuzhi paniyaram
+vegetarian dish,kuzhi paniyaram
+kerala sweet,kuzhi paniyaram
+shakahari meetha,mysore pak
+karnataka meetha,mysore pak
+semolina sweet,mysore pak
+mysore pak,mysore pak
+sweet dessert,mysore pak
+mysore pak dessert,mysore pak
+semolina meetha,mysore pak
+karnataka dish,mysore pak
+mysore pak meetha,mysore pak
+besan flour meetha,mysore pak
+besan flour sweet,mysore pak
+shakahari dish,mysore pak
+besan flour dessert,mysore pak
+vegetarian dessert,mysore pak
+karnataka sweet,mysore pak
+meetha meetha,mysore pak
+vegetarian dish,mysore pak
+semolina dessert,mysore pak
+maida flour main course,obbattu holige
+karnataka meetha,obbattu holige
+obbattu holige main course,obbattu holige
+shakahari main course,obbattu holige
+turmeric meetha,obbattu holige
+meetha main course,obbattu holige
+shakahari dish,obbattu holige
+vegetarian main course,obbattu holige
+karnataka dish,obbattu holige
+turmeric sweet,obbattu holige
+karnataka sweet,obbattu holige
+maida flour meetha,obbattu holige
+sweet main course,obbattu holige
+obbattu holige,obbattu holige
+vegetarian dish,obbattu holige
+maida flour sweet,obbattu holige
+turmeric main course,obbattu holige
+palathalikalu dessert,palathalikalu
+rice flour sweet,palathalikalu
+milk meetha,palathalikalu
+shakahari meetha,palathalikalu
+rice flour dessert,palathalikalu
+andhra pradesh sweet,palathalikalu
+andhra pradesh dish,palathalikalu
+sweet dessert,palathalikalu
+shakahari dish,palathalikalu
+rice flour meetha,palathalikalu
+milk dessert,palathalikalu
+vegetarian dessert,palathalikalu
+palathalikalu,palathalikalu
+andhra pradesh meetha,palathalikalu
+meetha meetha,palathalikalu
+vegetarian dish,palathalikalu
+palathalikalu meetha,palathalikalu
+milk sweet,palathalikalu
+shakahari meetha,poornalu
+jaggery meetha,poornalu
+jaggery sweet,poornalu
+andhra pradesh sweet,poornalu
+andhra pradesh dish,poornalu
+poornalu,poornalu
+poornalu meetha,poornalu
+sweet dessert,poornalu
+shakahari dish,poornalu
+poornalu dessert,poornalu
+chana dal meetha,poornalu
+vegetarian dessert,poornalu
+chana dal dessert,poornalu
+andhra pradesh meetha,poornalu
+meetha meetha,poornalu
+vegetarian dish,poornalu
+chana dal sweet,poornalu
+jaggery dessert,poornalu
+rice sweet,pongal
+shakahari meetha,pongal
+jaggery meetha,pongal
+jaggery sweet,pongal
+pongal,pongal
+pongal dessert,pongal
+sweet dessert,pongal
+rice meetha,pongal
+shakahari dish,pongal
+tamil nadu dish,pongal
+tamil nadu meetha,pongal
+pongal meetha,pongal
+vegetarian dessert,pongal
+rice dessert,pongal
+meetha meetha,pongal
+vegetarian dish,pongal
+tamil nadu sweet,pongal
+jaggery dessert,pongal
+rice flour sweet,pootharekulu
+shakahari meetha,pootharekulu
+rice flour dessert,pootharekulu
+powdered sugar sweet,pootharekulu
+andhra pradesh sweet,pootharekulu
+andhra pradesh dish,pootharekulu
+powdered sugar meetha,pootharekulu
+sweet dessert,pootharekulu
+shakahari dish,pootharekulu
+pootharekulu meetha,pootharekulu
+rice flour meetha,pootharekulu
+vegetarian dessert,pootharekulu
+pootharekulu,pootharekulu
+pootharekulu dessert,pootharekulu
+andhra pradesh meetha,pootharekulu
+meetha meetha,pootharekulu
+vegetarian dish,pootharekulu
+powdered sugar dessert,pootharekulu
+qubani ka,qubani ka meetha
+apricots dessert,qubani ka meetha
+shakahari dish,qubani ka meetha
+sugar syrup sweet,qubani ka meetha
+sweet dessert,qubani ka meetha
+vegetarian dish,qubani ka meetha
+apricots sweet,qubani ka meetha
+shakahari meetha,qubani ka meetha
+telangana dish,qubani ka meetha
+sugar syrup dessert,qubani ka meetha
+sugar syrup meetha,qubani ka meetha
+qubani ka meetha meetha,qubani ka meetha
+qubani ka meetha,qubani ka meetha
+apricots meetha,qubani ka meetha
+meetha meetha,qubani ka meetha
+telangana sweet,qubani ka meetha
+vegetarian dessert,qubani ka meetha
+qubani ka meetha dessert,qubani ka meetha
+telangana meetha,qubani ka meetha
+milk meetha,sheer korma
+telangana sweet,sheer korma
+vermicelli pudding meetha,sheer korma
+shakahari meetha,sheer korma
+sheer korma meetha,sheer korma
+telangana dish,sheer korma
+telangana meetha,sheer korma
+milk sweet,sheer korma
+sweet dessert,sheer korma
+shakahari dish,sheer korma
+sheer korma dessert,sheer korma
+milk dessert,sheer korma
+sheer korma,sheer korma
+vegetarian dessert,sheer korma
+vermicelli pudding dessert,sheer korma
+meetha meetha,sheer korma
+vegetarian dish,sheer korma
+vermicelli pudding sweet,sheer korma
+unni appam dessert,unni appam
+rice flour sweet,unni appam
+shakahari meetha,unni appam
+unni appam meetha,unni appam
+meetha meetha,unni appam
+rice flour dessert,unni appam
+sweet dessert,unni appam
+unni appam,unni appam
+shakahari dish,unni appam
+rice flour meetha,unni appam
+tamil nadu dish,unni appam
+tamil nadu meetha,unni appam
+vegetarian dessert,unni appam
+banana dessert,unni appam
+banana meetha,unni appam
+vegetarian dish,unni appam
+banana sweet,unni appam
+tamil nadu sweet,unni appam
+rice flour sweet,kajjikaya
+shakahari meetha,kajjikaya
+jaggery meetha,kajjikaya
+jaggery sweet,kajjikaya
+kajjikaya meetha,kajjikaya
+rice flour dessert,kajjikaya
+andhra pradesh sweet,kajjikaya
+andhra pradesh dish,kajjikaya
+shakahari dish,kajjikaya
+kajjikaya,kajjikaya
+rice flour meetha,kajjikaya
+vegetarian dish,kajjikaya
+vegetarian dessert,kajjikaya
+kajjikaya dessert,kajjikaya
+andhra pradesh meetha,kajjikaya
+meetha meetha,kajjikaya
+sweet dessert,kajjikaya
+jaggery dessert,kajjikaya
+rice flour sweet,anarsa
+shakahari meetha,anarsa
+jaggery meetha,anarsa
+jaggery sweet,anarsa
+anarsa dessert,anarsa
+rice flour dessert,anarsa
+maharashtra meetha,anarsa
+anarsa,anarsa
+sweet dessert,anarsa
+shakahari dish,anarsa
+rice flour meetha,anarsa
+maharashtra dish,anarsa
+maharashtra sweet,anarsa
+vegetarian dessert,anarsa
+anarsa meetha,anarsa
+meetha meetha,anarsa
+vegetarian dish,anarsa
+jaggery dessert,anarsa
+milk meetha,basundi
+shakahari meetha,basundi
+sugar dessert,basundi
+gujarat dish,basundi
+gujarat sweet,basundi
+basundi meetha,basundi
+sweet dessert,basundi
+shakahari dish,basundi
+basundi,basundi
+milk dessert,basundi
+vegetarian dessert,basundi
+sugar meetha,basundi
+sugar sweet,basundi
+gujarat meetha,basundi
+meetha meetha,basundi
+vegetarian dish,basundi
+basundi dessert,basundi
+milk sweet,basundi
+shakahari meetha,dhondas
+cucumber sweet,dhondas
+dhondas dessert,dhondas
+rava meetha,dhondas
+maharashtra meetha,dhondas
+rava dessert,dhondas
+sweet dessert,dhondas
+cucumber meetha,dhondas
+shakahari dish,dhondas
+maharashtra dish,dhondas
+maharashtra sweet,dhondas
+vegetarian dish,dhondas
+vegetarian dessert,dhondas
+rava sweet,dhondas
+dhondas meetha,dhondas
+meetha meetha,dhondas
+cucumber dessert,dhondas
+dhondas,dhondas
+rice sweet,doodhpak
+milk meetha,doodhpak
+shakahari meetha,doodhpak
+doodhpak meetha,doodhpak
+gujarat dish,doodhpak
+gujarat sweet,doodhpak
+doodhpak,doodhpak
+sweet dessert,doodhpak
+rice meetha,doodhpak
+shakahari dish,doodhpak
+milk dessert,doodhpak
+doodhpak dessert,doodhpak
+vegetarian dessert,doodhpak
+rice dessert,doodhpak
+gujarat meetha,doodhpak
+meetha meetha,doodhpak
+vegetarian dish,doodhpak
+milk sweet,doodhpak
+mahim halwa,mahim halwa
+shakahari meetha,mahim halwa
+semolina sweet,mahim halwa
+sugar dessert,mahim halwa
+mahim halwa dessert,mahim halwa
+maharashtra meetha,mahim halwa
+semolina meetha,mahim halwa
+shakahari dish,mahim halwa
+maharashtra dish,mahim halwa
+maharashtra sweet,mahim halwa
+vegetarian dish,mahim halwa
+vegetarian dessert,mahim halwa
+sugar meetha,mahim halwa
+sugar sweet,mahim halwa
+meetha meetha,mahim halwa
+sweet dessert,mahim halwa
+semolina dessert,mahim halwa
+mahim halwa meetha,mahim halwa
+rice flour sweet,modak
+shakahari meetha,modak
+rice flour dessert,modak
+maharashtra meetha,modak
+coconut dessert,modak
+sweet dessert,modak
+shakahari dish,modak
+coconut sweet,modak
+rice flour meetha,modak
+maharashtra dish,modak
+maharashtra sweet,modak
+modak dessert,modak
+vegetarian dessert,modak
+modak meetha,modak
+meetha meetha,modak
+vegetarian dish,modak
+coconut meetha,modak
+modak,modak
+meetha meetha,shankarpali
+shakahari meetha,shankarpali
+ghee meetha,shankarpali
+sugar dessert,shankarpali
+maharashtra meetha,shankarpali
+sweet dessert,shankarpali
+shakahari dish,shankarpali
+maharashtra dish,shankarpali
+maharashtra sweet,shankarpali
+shankarpali,shankarpali
+shankarpali dessert,shankarpali
+vegetarian dessert,shankarpali
+sugar meetha,shankarpali
+sugar sweet,shankarpali
+shankarpali meetha,shankarpali
+ghee sweet,shankarpali
+vegetarian dish,shankarpali
+ghee dessert,shankarpali
+shrikhand dessert,shrikhand
+shakahari meetha,shrikhand
+curd dessert,shrikhand
+sugar dessert,shrikhand
+maharashtra meetha,shrikhand
+curd sweet,shrikhand
+sweet dessert,shrikhand
+shakahari dish,shrikhand
+maharashtra dish,shrikhand
+curd meetha,shrikhand
+maharashtra sweet,shrikhand
+vegetarian dessert,shrikhand
+shrikhand meetha,shrikhand
+sugar meetha,shrikhand
+sugar sweet,shrikhand
+meetha meetha,shrikhand
+vegetarian dish,shrikhand
+shrikhand,shrikhand
+shakahari meetha,sutar feni
+sutar feni dessert,sutar feni
+sugar dessert,sutar feni
+maharashtra meetha,sutar feni
+sweet dessert,sutar feni
+maida meetha,sutar feni
+shakahari dish,sutar feni
+maida sweet,sutar feni
+maharashtra dish,sutar feni
+maharashtra sweet,sutar feni
+maida dessert,sutar feni
+vegetarian dessert,sutar feni
+sugar meetha,sutar feni
+sutar feni,sutar feni
+meetha meetha,sutar feni
+vegetarian dish,sutar feni
+sutar feni meetha,sutar feni
+sugar sweet,sutar feni
+fish main course,maach jhol
+potol spicy,maach jhol
+maach jhol,maach jhol
+non shakahari main course,maach jhol
+assam spicy,maach jhol
+assam teekha,maach jhol
+maach jhol main course,maach jhol
+spicy main course,maach jhol
+teekha main course,maach jhol
+fish spicy,maach jhol
+potol teekha,maach jhol
+non vegetarian main course,maach jhol
+fish teekha,maach jhol
+assam dish,maach jhol
+non shakahari dish,maach jhol
+non vegetarian dish,maach jhol
+potol main course,maach jhol
+pork bharta main course,pork bharta
+non shakahari main course,pork bharta
+tripura dish,pork bharta
+onions teekha,pork bharta
+spicy main course,pork bharta
+boiled pork spicy,pork bharta
+pork bharta,pork bharta
+tripura teekha,pork bharta
+teekha main course,pork bharta
+non shakahari dish,pork bharta
+non vegetarian main course,pork bharta
+boiled pork main course,pork bharta
+onions spicy,pork bharta
+boiled pork teekha,pork bharta
+tripura spicy,pork bharta
+onions main course,pork bharta
+non vegetarian dish,pork bharta
+rice sweet,chak hao kheer
+manipur meetha,chak hao kheer
+chak hao kheer meetha,chak hao kheer
+chak hao kheer,chak hao kheer
+shakahari dish,chak hao kheer
+milk dessert,chak hao kheer
+manipur dish,chak hao kheer
+rice dessert,chak hao kheer
+sweet dessert,chak hao kheer
+vegetarian dish,chak hao kheer
+shakahari meetha,chak hao kheer
+rice meetha,chak hao kheer
+meetha meetha,chak hao kheer
+chak hao kheer dessert,chak hao kheer
+manipur sweet,chak hao kheer
+vegetarian dessert,chak hao kheer
+chak hao,chak hao kheer
+milk meetha,chak hao kheer
+milk sweet,chak hao kheer
+nagaland spicy,galho
+axone main course,galho
+nagaland dish,galho
+non shakahari main course,galho
+galho main course,galho
+spicy main course,galho
+rice main course,galho
+teekha main course,galho
+axone teekha,galho
+galho,galho
+non vegetarian main course,galho
+nagaland teekha,galho
+rice teekha,galho
+axone spicy,galho
+rice spicy,galho
+non shakahari dish,galho
+non vegetarian dish,galho
+punjab dish,aloo gobi
+cauliflower teekha,aloo gobi
+cauliflower main course,aloo gobi
+punjab spicy,aloo gobi
+potato spicy,aloo gobi
+aloo gobi,aloo gobi
+spicy main course,aloo gobi
+shakahari main course,aloo gobi
+shakahari dish,aloo gobi
+vegetarian main course,aloo gobi
+teekha main course,aloo gobi
+potato main course,aloo gobi
+potato teekha,aloo gobi
+aloo gobi main course,aloo gobi
+cauliflower spicy,aloo gobi
+vegetarian dish,aloo gobi
+punjab teekha,aloo gobi
+aloo tikki,aloo tikki
+punjab dish,aloo tikki
+punjab spicy,aloo tikki
+rice flour main course,aloo tikki
+potato spicy,aloo tikki
+rice flour spicy,aloo tikki
+rice flour teekha,aloo tikki
+spicy main course,aloo tikki
+shakahari main course,aloo tikki
+shakahari dish,aloo tikki
+vegetarian main course,aloo tikki
+teekha main course,aloo tikki
+potato main course,aloo tikki
+potato teekha,aloo tikki
+aloo tikki main course,aloo tikki
+vegetarian dish,aloo tikki
+punjab teekha,aloo tikki
+punjab dish,aloo matar
+aloo matar main course,aloo matar
+peas spicy,aloo matar
+punjab spicy,aloo matar
+potato spicy,aloo matar
+peas teekha,aloo matar
+spicy main course,aloo matar
+shakahari main course,aloo matar
+shakahari dish,aloo matar
+aloo matar,aloo matar
+vegetarian main course,aloo matar
+teekha main course,aloo matar
+potato main course,aloo matar
+peas main course,aloo matar
+potato teekha,aloo matar
+vegetarian dish,aloo matar
+punjab teekha,aloo matar
+punjab dish,aloo methi
+fenugreek leaves main course,aloo methi
+aloo methi main course,aloo methi
+potato bitter,aloo methi
+fenugreek leaves bitter,aloo methi
+shakahari main course,aloo methi
+shakahari dish,aloo methi
+vegetarian main course,aloo methi
+aloo methi,aloo methi
+punjab bitter,aloo methi
+potato main course,aloo methi
+vegetarian dish,aloo methi
+bitter main course,aloo methi
+punjab dish,aloo shimla mirch
+shimla mirch main course,aloo shimla mirch
+aloo shimla,aloo shimla mirch
+shimla mirch spicy,aloo shimla mirch
+potato spicy,aloo shimla mirch
+punjab spicy,aloo shimla mirch
+spicy main course,aloo shimla mirch
+shakahari main course,aloo shimla mirch
+shakahari dish,aloo shimla mirch
+aloo shimla mirch,aloo shimla mirch
+vegetarian main course,aloo shimla mirch
+shimla mirch teekha,aloo shimla mirch
+teekha main course,aloo shimla mirch
+potato main course,aloo shimla mirch
+potato teekha,aloo shimla mirch
+aloo shimla mirch main course,aloo shimla mirch
+vegetarian dish,aloo shimla mirch
+punjab teekha,aloo shimla mirch
+punjab dish,bhatura
+punjab spicy,bhatura
+rava teekha,bhatura
+spicy main course,bhatura
+rava main course,bhatura
+shakahari main course,bhatura
+shakahari dish,bhatura
+vegetarian main course,bhatura
+chole main course,bhatura
+teekha main course,bhatura
+chole spicy,bhatura
+chole teekha,bhatura
+bhatura,bhatura
+punjab teekha,bhatura
+vegetarian dish,bhatura
+bhatura main course,bhatura
+rava spicy,bhatura
+punjab dish,bhindi masala
+ladies finger main course,bhindi masala
+ladies finger teekha,bhindi masala
+punjab spicy,bhindi masala
+garam masala teekha,bhindi masala
+bhindi masala,bhindi masala
+spicy main course,bhindi masala
+shakahari main course,bhindi masala
+shakahari dish,bhindi masala
+vegetarian main course,bhindi masala
+garam masala main course,bhindi masala
+teekha main course,bhindi masala
+ladies finger spicy,bhindi masala
+garam masala spicy,bhindi masala
+bhindi masala main course,bhindi masala
+vegetarian dish,bhindi masala
+punjab teekha,bhindi masala
+biryani,biryani
+chicken thighs spicy,biryani
+non shakahari main course,biryani
+basmati rice teekha,biryani
+telangana dish,biryani
+biryani main course,biryani
+basmati rice spicy,biryani
+chicken thighs teekha,biryani
+spicy main course,biryani
+teekha main course,biryani
+basmati rice main course,biryani
+non vegetarian main course,biryani
+telangana teekha,biryani
+chicken thighs main course,biryani
+non shakahari dish,biryani
+non vegetarian dish,biryani
+telangana spicy,biryani
+butter chicken main course,butter chicken
+nct of delhi dish,butter chicken
+non shakahari main course,butter chicken
+greek yogurt main course,butter chicken
+greek yogurt teekha,butter chicken
+spicy main course,butter chicken
+chicken spicy,butter chicken
+chicken main course,butter chicken
+teekha main course,butter chicken
+chicken teekha,butter chicken
+greek yogurt spicy,butter chicken
+non vegetarian main course,butter chicken
+nct of delhi spicy,butter chicken
+nct of delhi teekha,butter chicken
+non shakahari dish,butter chicken
+non vegetarian dish,butter chicken
+butter chicken,butter chicken
+punjab dish,chana masala
+chana masala,chana masala
+chickpeas teekha,chana masala
+tomato paste spicy,chana masala
+punjab spicy,chana masala
+tomato paste main course,chana masala
+chickpeas main course,chana masala
+chickpeas spicy,chana masala
+chana masala main course,chana masala
+spicy main course,chana masala
+tomato paste teekha,chana masala
+shakahari main course,chana masala
+shakahari dish,chana masala
+vegetarian main course,chana masala
+teekha main course,chana masala
+vegetarian dish,chana masala
+punjab teekha,chana masala
+whole wheat flour main course,chapati
+whole wheat flour unknown,chapati
+chapati main course,chapati
+unknown main course,chapati
+chapati,chapati
+shakahari main course,chapati
+shakahari dish,chapati
+olive oil unknown,chapati
+vegetarian main course,chapati
+olive oil main course,chapati
+maharashtra unknown,chapati
+maharashtra dish,chapati
+vegetarian dish,chapati
+non shakahari main course,chicken razala
+chicken razala main course,chicken razala
+dahi spicy,chicken razala
+spicy main course,chicken razala
+west bengal dish,chicken razala
+chicken spicy,chicken razala
+chicken main course,chicken razala
+teekha main course,chicken razala
+chicken teekha,chicken razala
+non shakahari dish,chicken razala
+non vegetarian main course,chicken razala
+dahi teekha,chicken razala
+west bengal teekha,chicken razala
+chicken razala,chicken razala
+dahi main course,chicken razala
+non vegetarian dish,chicken razala
+west bengal spicy,chicken razala
+punjab dish,chicken tikka masala
+chicken tikka masala,chicken tikka masala
+punjab teekha,chicken tikka masala
+punjab spicy,chicken tikka masala
+tomato sauce spicy,chicken tikka masala
+non shakahari main course,chicken tikka masala
+spicy main course,chicken tikka masala
+naan bread main course,chicken tikka masala
+naan bread teekha,chicken tikka masala
+teekha main course,chicken tikka masala
+non vegetarian main course,chicken tikka masala
+tomato sauce main course,chicken tikka masala
+naan bread spicy,chicken tikka masala
+chicken tikka,chicken tikka masala
+non shakahari dish,chicken tikka masala
+tomato sauce teekha,chicken tikka masala
+chicken tikka masala main course,chicken tikka masala
+non vegetarian dish,chicken tikka masala
+spicy starter,chicken tikka
+punjab dish,chicken tikka
+whole wheat bread starter,chicken tikka
+punjab spicy,chicken tikka
+punjab teekha,chicken tikka
+chicken spicy,chicken tikka
+whole wheat bread spicy,chicken tikka
+chicken tikka starter,chicken tikka
+non vegetarian starter,chicken tikka
+non shakahari starter,chicken tikka
+chicken teekha,chicken tikka
+non shakahari dish,chicken tikka
+chicken tikka,chicken tikka
+teekha starter,chicken tikka
+chicken starter,chicken tikka
+whole wheat bread teekha,chicken tikka
+non vegetarian dish,chicken tikka
+punjab dish,chole bhature
+punjab spicy,chole bhature
+bhatura teekha,chole bhature
+spicy main course,chole bhature
+shakahari main course,chole bhature
+chole bhature,chole bhature
+shakahari dish,chole bhature
+chole bhature main course,chole bhature
+chole main course,chole bhature
+vegetarian main course,chole bhature
+teekha main course,chole bhature
+chole spicy,chole bhature
+chole teekha,chole bhature
+bhatura spicy,chole bhature
+punjab teekha,chole bhature
+vegetarian dish,chole bhature
+bhatura main course,chole bhature
+daal baati,daal baati churma
+rajasthan spicy,daal baati churma
+daal baati churma main course,daal baati churma
+moong dal spicy,daal baati churma
+spicy main course,daal baati churma
+moong dal teekha,daal baati churma
+shakahari main course,daal baati churma
+rajasthan teekha,daal baati churma
+shakahari dish,daal baati churma
+vegetarian main course,daal baati churma
+teekha main course,daal baati churma
+masoor dal teekha,daal baati churma
+masoor dal main course,daal baati churma
+moong dal main course,daal baati churma
+daal baati churma,daal baati churma
+vegetarian dish,daal baati churma
+masoor dal spicy,daal baati churma
+rajasthan dish,daal baati churma
+moong dal spicy,daal puri
+garam masala powder main course,daal puri
+spicy main course,daal puri
+west bengal dish,daal puri
+moong dal teekha,daal puri
+shakahari main course,daal puri
+shakahari dish,daal puri
+garam masala powder spicy,daal puri
+vegetarian main course,daal puri
+teekha main course,daal puri
+west bengal teekha,daal puri
+daal puri,daal puri
+moong dal main course,daal puri
+west bengal spicy,daal puri
+vegetarian dish,daal puri
+daal puri main course,daal puri
+garam masala powder teekha,daal puri
+punjab dish,dal makhani
+punjab meetha,dal makhani
+red kidney beans sweet,dal makhani
+punjab sweet,dal makhani
+red kidney beans meetha,dal makhani
+urad dal main course,dal makhani
+meetha main course,dal makhani
+red kidney beans main course,dal makhani
+shakahari main course,dal makhani
+vegetarian main course,dal makhani
+shakahari dish,dal makhani
+urad dal sweet,dal makhani
+dal makhani main course,dal makhani
+sweet main course,dal makhani
+urad dal meetha,dal makhani
+vegetarian dish,dal makhani
+dal makhani,dal makhani
+punjab dish,dal tadka
+dal tadka main course,dal tadka
+pigeon peas main course,dal tadka
+punjab spicy,dal tadka
+garam masala teekha,dal tadka
+spicy main course,dal tadka
+pigeon peas spicy,dal tadka
+shakahari main course,dal tadka
+shakahari dish,dal tadka
+vegetarian main course,dal tadka
+garam masala main course,dal tadka
+teekha main course,dal tadka
+garam masala spicy,dal tadka
+pigeon peas teekha,dal tadka
+dal tadka,dal tadka
+vegetarian dish,dal tadka
+punjab teekha,dal tadka
+jammu kashmir spicy,dum aloo
+jammu kashmir teekha,dum aloo
+garam masala teekha,dum aloo
+spicy main course,dum aloo
+shakahari main course,dum aloo
+shakahari dish,dum aloo
+vegetarian main course,dum aloo
+garam masala main course,dum aloo
+dum aloo main course,dum aloo
+dum aloo,dum aloo
+teekha main course,dum aloo
+garam masala spicy,dum aloo
+baby potatoes spicy,dum aloo
+baby potatoes teekha,dum aloo
+vegetarian dish,dum aloo
+jammu kashmir dish,dum aloo
+baby potatoes main course,dum aloo
+maharashtra teekha,poha
+maharashtra spicy,poha
+potato snack,poha
+potato spicy,poha
+poha snack,poha
+teekha snack,poha
+poha,poha
+shakahari dish,poha
+maharashtra dish,poha
+beaten rice flakes snack,poha
+beaten rice flakes spicy,poha
+vegetarian snack,poha
+potato teekha,poha
+shakahari snack,poha
+beaten rice flakes teekha,poha
+vegetarian dish,poha
+spicy snack,poha
+chhattisgarh teekha,fara
+chana dal spicy,fara
+chhattisgarh dish,fara
+chhattisgarh spicy,fara
+chana dal teekha,fara
+fara,fara
+shakahari dish,fara
+fara snack,fara
+whole wheat flour snack,fara
+whole wheat flour teekha,fara
+chana dal snack,fara
+vegetarian snack,fara
+whole wheat flour spicy,fara
+shakahari snack,fara
+teekha snack,fara
+vegetarian dish,fara
+spicy snack,fara
+kachori,kachori
+moong dal spicy,kachori
+kachori snack,kachori
+uttar pradesh teekha,kachori
+rava teekha,kachori
+moong dal teekha,kachori
+shakahari dish,kachori
+rava snack,kachori
+uttar pradesh dish,kachori
+rava spicy,kachori
+moong dal snack,kachori
+vegetarian snack,kachori
+shakahari snack,kachori
+teekha snack,kachori
+vegetarian dish,kachori
+spicy snack,kachori
+uttar pradesh spicy,kachori
+punjab dish,kadai paneer
+cottage cheese teekha,kadai paneer
+cottage cheese main course,kadai paneer
+punjab spicy,kadai paneer
+bell peppers teekha,kadai paneer
+spicy main course,kadai paneer
+shakahari main course,kadai paneer
+shakahari dish,kadai paneer
+vegetarian main course,kadai paneer
+teekha main course,kadai paneer
+cottage cheese spicy,kadai paneer
+kadai paneer,kadai paneer
+kadai paneer main course,kadai paneer
+bell peppers spicy,kadai paneer
+bell peppers main course,kadai paneer
+vegetarian dish,kadai paneer
+punjab teekha,kadai paneer
+besan spicy,kadhi pakoda
+besan teekha,kadhi pakoda
+haryana teekha,kadhi pakoda
+haryana dish,kadhi pakoda
+garam masala powder main course,kadhi pakoda
+spicy main course,kadhi pakoda
+kadhi pakoda,kadhi pakoda
+shakahari main course,kadhi pakoda
+kadhi pakoda main course,kadhi pakoda
+besan main course,kadhi pakoda
+garam masala powder spicy,kadhi pakoda
+vegetarian main course,kadhi pakoda
+haryana spicy,kadhi pakoda
+teekha main course,kadhi pakoda
+shakahari dish,kadhi pakoda
+vegetarian dish,kadhi pakoda
+garam masala powder teekha,kadhi pakoda
+karela bharta main course,karela bharta
+punjab dish,karela bharta
+shakahari main course,karela bharta
+fennel bitter,karela bharta
+shakahari dish,karela bharta
+vegetarian main course,karela bharta
+punjab bitter,karela bharta
+bitter gourd bitter,karela bharta
+karela bharta,karela bharta
+bitter gourd main course,karela bharta
+fennel main course,karela bharta
+vegetarian dish,karela bharta
+bitter main course,karela bharta
+green peas main course,khichdi
+moong dal spicy,khichdi
+unknown spicy,khichdi
+green peas spicy,khichdi
+spicy main course,khichdi
+khichdi,khichdi
+moong dal teekha,khichdi
+shakahari main course,khichdi
+shakahari dish,khichdi
+vegetarian main course,khichdi
+green peas teekha,khichdi
+teekha main course,khichdi
+moong dal main course,khichdi
+unknown dish,khichdi
+unknown teekha,khichdi
+khichdi main course,khichdi
+vegetarian dish,khichdi
+uttar pradesh teekha,kofta
+potato spicy,kofta
+spicy main course,kofta
+shakahari main course,kofta
+shakahari dish,kofta
+vegetarian main course,kofta
+uttar pradesh dish,kofta
+teekha main course,kofta
+paneer teekha,kofta
+paneer main course,kofta
+potato main course,kofta
+potato teekha,kofta
+kofta,kofta
+paneer spicy,kofta
+kofta main course,kofta
+vegetarian dish,kofta
+uttar pradesh spicy,kofta
+meetha meetha,kulfi falooda
+shakahari meetha,kulfi falooda
+falooda sev meetha,kulfi falooda
+falooda sev dessert,kulfi falooda
+kulfi falooda meetha,kulfi falooda
+rose syrup meetha,kulfi falooda
+kulfi falooda,kulfi falooda
+unknown meetha,kulfi falooda
+rose syrup dessert,kulfi falooda
+rose syrup sweet,kulfi falooda
+sweet dessert,kulfi falooda
+shakahari dish,kulfi falooda
+falooda sev sweet,kulfi falooda
+vegetarian dessert,kulfi falooda
+kulfi falooda dessert,kulfi falooda
+unknown dish,kulfi falooda
+unknown sweet,kulfi falooda
+vegetarian dish,kulfi falooda
+lauki ke kofte,lauki ke kofte
+uttar pradesh teekha,lauki ke kofte
+bottle gourd teekha,lauki ke kofte
+garam masala powder main course,lauki ke kofte
+spicy main course,lauki ke kofte
+bottle gourd main course,lauki ke kofte
+lauki ke,lauki ke kofte
+garam masala powder teekha,lauki ke kofte
+shakahari main course,lauki ke kofte
+garam masala powder spicy,lauki ke kofte
+vegetarian main course,lauki ke kofte
+uttar pradesh dish,lauki ke kofte
+lauki ke kofte main course,lauki ke kofte
+teekha main course,lauki ke kofte
+shakahari dish,lauki ke kofte
+bottle gourd spicy,lauki ke kofte
+vegetarian dish,lauki ke kofte
+uttar pradesh spicy,lauki ke kofte
+unknown spicy,lauki ki subji
+bottle gourd teekha,lauki ki subji
+lauki ki subji main course,lauki ki subji
+spicy main course,lauki ki subji
+bottle gourd main course,lauki ki subji
+coconut oil main course,lauki ki subji
+shakahari main course,lauki ki subji
+shakahari dish,lauki ki subji
+vegetarian main course,lauki ki subji
+teekha main course,lauki ki subji
+lauki ki subji,lauki ki subji
+lauki ki,lauki ki subji
+unknown teekha,lauki ki subji
+coconut oil spicy,lauki ki subji
+unknown dish,lauki ki subji
+bottle gourd spicy,lauki ki subji
+coconut oil teekha,lauki ki subji
+vegetarian dish,lauki ki subji
+wheat flour main course,litti chokha
+wheat flour spicy,litti chokha
+roasted gram flour spicy,litti chokha
+spicy main course,litti chokha
+litti chokha main course,litti chokha
+bihar spicy,litti chokha
+shakahari main course,litti chokha
+litti chokha,litti chokha
+vegetarian main course,litti chokha
+wheat flour teekha,litti chokha
+teekha main course,litti chokha
+shakahari dish,litti chokha
+roasted gram flour main course,litti chokha
+roasted gram flour teekha,litti chokha
+bihar teekha,litti chokha
+vegetarian dish,litti chokha
+bihar dish,litti chokha
+punjab dish,makki di roti sarson da saag
+punjab spicy,makki di roti sarson da saag
+makki atta main course,makki di roti sarson da saag
+palak teekha,makki di roti sarson da saag
+spicy main course,makki di roti sarson da saag
+shakahari main course,makki di roti sarson da saag
+shakahari dish,makki di roti sarson da saag
+vegetarian main course,makki di roti sarson da saag
+teekha main course,makki di roti sarson da saag
+makki atta teekha,makki di roti sarson da saag
+makki di roti sarson da saag,makki di roti sarson da saag
+makki atta spicy,makki di roti sarson da saag
+makki di roti sarson da saag main course,makki di roti sarson da saag
+punjab teekha,makki di roti sarson da saag
+makki di,makki di roti sarson da saag
+vegetarian dish,makki di roti sarson da saag
+palak spicy,makki di roti sarson da saag
+palak main course,makki di roti sarson da saag
+punjab dish,misi roti
+whole wheat flour main course,misi roti
+punjab spicy,misi roti
+spicy main course,misi roti
+shakahari main course,misi roti
+shakahari dish,misi roti
+vegetarian main course,misi roti
+teekha main course,misi roti
+whole wheat flour teekha,misi roti
+chickpea flour teekha,misi roti
+misi roti main course,misi roti
+whole wheat flour spicy,misi roti
+punjab teekha,misi roti
+misi roti,misi roti
+vegetarian dish,misi roti
+chickpea flour main course,misi roti
+chickpea flour spicy,misi roti
+mushroom spicy,mushroom do pyaza
+punjab dish,mushroom do pyaza
+mushroom main course,mushroom do pyaza
+mushroom do,mushroom do pyaza
+punjab spicy,mushroom do pyaza
+malai teekha,mushroom do pyaza
+spicy main course,mushroom do pyaza
+shakahari main course,mushroom do pyaza
+malai main course,mushroom do pyaza
+shakahari dish,mushroom do pyaza
+vegetarian main course,mushroom do pyaza
+malai spicy,mushroom do pyaza
+teekha main course,mushroom do pyaza
+mushroom do pyaza main course,mushroom do pyaza
+mushroom teekha,mushroom do pyaza
+mushroom do pyaza,mushroom do pyaza
+vegetarian dish,mushroom do pyaza
+punjab teekha,mushroom do pyaza
+punjab dish,mushroom matar
+punjab spicy,mushroom matar
+frozen green peas spicy,mushroom matar
+mushroom matar,mushroom matar
+frozen green peas main course,mushroom matar
+spicy main course,mushroom matar
+frozen green peas teekha,mushroom matar
+shakahari main course,mushroom matar
+canned coconut milk spicy,mushroom matar
+canned coconut milk teekha,mushroom matar
+vegetarian main course,mushroom matar
+teekha main course,mushroom matar
+shakahari dish,mushroom matar
+mushroom matar main course,mushroom matar
+punjab teekha,mushroom matar
+vegetarian dish,mushroom matar
+canned coconut milk main course,mushroom matar
+punjab dish,naan
+whole wheat flour main course,naan
+whole wheat flour unknown,naan
+honey main course,naan
+unknown main course,naan
+naan main course,naan
+shakahari main course,naan
+shakahari dish,naan
+vegetarian main course,naan
+punjab unknown,naan
+naan,naan
+honey unknown,naan
+vegetarian dish,naan
+potatoes spicy,navrattan korma
+navrattan korma,navrattan korma
+green beans teekha,navrattan korma
+uttar pradesh teekha,navrattan korma
+green beans main course,navrattan korma
+potatoes teekha,navrattan korma
+spicy main course,navrattan korma
+shakahari main course,navrattan korma
+shakahari dish,navrattan korma
+uttar pradesh dish,navrattan korma
+vegetarian main course,navrattan korma
+teekha main course,navrattan korma
+navrattan korma main course,navrattan korma
+green beans spicy,navrattan korma
+vegetarian dish,navrattan korma
+potatoes main course,navrattan korma
+uttar pradesh spicy,navrattan korma
+punjab dish,palak paneer
+cottage cheese teekha,palak paneer
+cottage cheese main course,palak paneer
+punjab spicy,palak paneer
+palak teekha,palak paneer
+palak paneer,palak paneer
+spicy main course,palak paneer
+shakahari main course,palak paneer
+shakahari dish,palak paneer
+palak paneer main course,palak paneer
+vegetarian main course,palak paneer
+teekha main course,palak paneer
+cottage cheese spicy,palak paneer
+punjab teekha,palak paneer
+vegetarian dish,palak paneer
+palak spicy,palak paneer
+palak main course,palak paneer
+paneer butter masala,paneer butter masala
+punjab dish,paneer butter masala
+whipping cream spicy,paneer butter masala
+punjab spicy,paneer butter masala
+spicy main course,paneer butter masala
+shakahari main course,paneer butter masala
+shakahari dish,paneer butter masala
+paneer butter masala main course,paneer butter masala
+vegetarian main course,paneer butter masala
+teekha main course,paneer butter masala
+whipping cream teekha,paneer butter masala
+paneer teekha,paneer butter masala
+paneer main course,paneer butter masala
+paneer spicy,paneer butter masala
+vegetarian dish,paneer butter masala
+whipping cream main course,paneer butter masala
+punjab teekha,paneer butter masala
+paneer butter,paneer butter masala
+punjab dish,paneer tikka masala
+greek yogurt main course,paneer tikka masala
+punjab spicy,paneer tikka masala
+greek yogurt teekha,paneer tikka masala
+spicy main course,paneer tikka masala
+paneer tikka masala main course,paneer tikka masala
+paneer tikka masala,paneer tikka masala
+shakahari main course,paneer tikka masala
+paneer tikka,paneer tikka masala
+vegetarian main course,paneer tikka masala
+teekha main course,paneer tikka masala
+greek yogurt spicy,paneer tikka masala
+paneer teekha,paneer tikka masala
+paneer main course,paneer tikka masala
+shakahari dish,paneer tikka masala
+paneer spicy,paneer tikka masala
+vegetarian dish,paneer tikka masala
+punjab teekha,paneer tikka masala
+pani puri,pani puri
+unknown spicy,pani puri
+kala chana teekha,pani puri
+mashed potato snack,pani puri
+mashed potato spicy,pani puri
+mashed potato teekha,pani puri
+shakahari snack,pani puri
+kala chana snack,pani puri
+shakahari dish,pani puri
+unknown teekha,pani puri
+vegetarian snack,pani puri
+unknown dish,pani puri
+pani puri snack,pani puri
+teekha snack,pani puri
+vegetarian dish,pani puri
+spicy snack,pani puri
+kala chana spicy,pani puri
+shakahari meetha,panjeeri
+panjeeri meetha,panjeeri
+uttar pradesh sweet,panjeeri
+musk melon seeds dessert,panjeeri
+musk melon seeds meetha,panjeeri
+sweet dessert,panjeeri
+whole wheat flour sweet,panjeeri
+shakahari dish,panjeeri
+uttar pradesh dish,panjeeri
+panjeeri,panjeeri
+whole wheat flour meetha,panjeeri
+uttar pradesh meetha,panjeeri
+panjeeri dessert,panjeeri
+vegetarian dessert,panjeeri
+whole wheat flour dessert,panjeeri
+meetha meetha,panjeeri
+vegetarian dish,panjeeri
+musk melon seeds sweet,panjeeri
+sev snack,papad
+urad dal spicy,papad
+unknown spicy,papad
+shakahari dish,papad
+urad dal teekha,papad
+papad snack,papad
+papad,papad
+urad dal snack,papad
+vegetarian snack,papad
+unknown dish,papad
+unknown teekha,papad
+shakahari snack,papad
+teekha snack,papad
+sev teekha,papad
+vegetarian dish,papad
+spicy snack,papad
+sev spicy,papad
+wheat flour main course,paratha
+punjab dish,paratha
+butter teekha,paratha
+punjab spicy,paratha
+wheat flour spicy,paratha
+spicy main course,paratha
+shakahari main course,paratha
+shakahari dish,paratha
+wheat flour teekha,paratha
+vegetarian main course,paratha
+teekha main course,paratha
+paratha,paratha
+paratha main course,paratha
+butter main course,paratha
+vegetarian dish,paratha
+punjab teekha,paratha
+butter spicy,paratha
+rajasthan spicy,pattor
+pattor,pattor
+sesame seeds main course,pattor
+spicy main course,pattor
+rajasthan teekha,pattor
+shakahari main course,pattor
+vegetarian main course,pattor
+teekha main course,pattor
+arbi ke patte spicy,pattor
+arbi ke patte main course,pattor
+shakahari dish,pattor
+sesame seeds teekha,pattor
+arbi ke patte teekha,pattor
+pattor main course,pattor
+vegetarian dish,pattor
+sesame seeds spicy,pattor
+rajasthan dish,pattor
+tea bags spicy,pindi chana
+punjab dish,pindi chana
+fennel teekha,pindi chana
+punjab spicy,pindi chana
+tea bags teekha,pindi chana
+pindi chana,pindi chana
+spicy main course,pindi chana
+shakahari main course,pindi chana
+shakahari dish,pindi chana
+pindi chana main course,pindi chana
+tea bags main course,pindi chana
+vegetarian main course,pindi chana
+teekha main course,pindi chana
+fennel main course,pindi chana
+vegetarian dish,pindi chana
+punjab teekha,pindi chana
+fennel spicy,pindi chana
+unknown spicy,rajma chaval
+rajma chaval,rajma chaval
+red kidney beans spicy,rajma chaval
+garam masala powder main course,rajma chaval
+spicy main course,rajma chaval
+shakahari main course,rajma chaval
+red kidney beans main course,rajma chaval
+shakahari dish,rajma chaval
+garam masala powder spicy,rajma chaval
+vegetarian main course,rajma chaval
+teekha main course,rajma chaval
+red kidney beans teekha,rajma chaval
+unknown teekha,rajma chaval
+unknown dish,rajma chaval
+vegetarian dish,rajma chaval
+rajma chaval main course,rajma chaval
+garam masala powder teekha,rajma chaval
+tomato unknown,rongi
+punjab dish,rongi
+garam masala powder unknown,rongi
+unknown main course,rongi
+garam masala powder main course,rongi
+shakahari main course,rongi
+shakahari dish,rongi
+vegetarian main course,rongi
+punjab unknown,rongi
+rongi main course,rongi
+vegetarian dish,rongi
+rongi,rongi
+tomato main course,rongi
+potatoes spicy,samosa
+unknown spicy,samosa
+green peas snack,samosa
+green peas spicy,samosa
+potatoes teekha,samosa
+samosa,samosa
+shakahari dish,samosa
+green peas teekha,samosa
+potatoes snack,samosa
+samosa snack,samosa
+unknown teekha,samosa
+vegetarian snack,samosa
+unknown dish,samosa
+shakahari snack,samosa
+teekha snack,samosa
+vegetarian dish,samosa
+spicy snack,samosa
+sattu ki roti,sattu ki roti
+sattu ki roti main course,sattu ki roti
+sattu spicy,sattu ki roti
+spicy main course,sattu ki roti
+bihar spicy,sattu ki roti
+shakahari main course,sattu ki roti
+shakahari dish,sattu ki roti
+atta main course,sattu ki roti
+vegetarian main course,sattu ki roti
+sattu main course,sattu ki roti
+atta spicy,sattu ki roti
+sattu ki,sattu ki roti
+teekha main course,sattu ki roti
+atta teekha,sattu ki roti
+bihar teekha,sattu ki roti
+vegetarian dish,sattu ki roti
+bihar dish,sattu ki roti
+sattu teekha,sattu ki roti
+punjab dish,shahi paneer
+cottage cheese teekha,shahi paneer
+cottage cheese main course,shahi paneer
+punjab spicy,shahi paneer
+malai teekha,shahi paneer
+shahi paneer,shahi paneer
+spicy main course,shahi paneer
+shakahari main course,shahi paneer
+malai main course,shahi paneer
+shakahari dish,shahi paneer
+vegetarian main course,shahi paneer
+malai spicy,shahi paneer
+cottage cheese spicy,shahi paneer
+teekha main course,shahi paneer
+shahi paneer main course,shahi paneer
+vegetarian dish,shahi paneer
+punjab teekha,shahi paneer
+rose water sweet,shahi tukra
+milk meetha,shahi tukra
+shakahari meetha,shahi tukra
+telangana dish,shahi tukra
+telangana meetha,shahi tukra
+rose water dessert,shahi tukra
+milk sweet,shahi tukra
+sweet dessert,shahi tukra
+shahi tukra,shahi tukra
+shahi tukra dessert,shahi tukra
+shakahari dish,shahi tukra
+milk dessert,shahi tukra
+vegetarian dessert,shahi tukra
+rose water meetha,shahi tukra
+meetha meetha,shahi tukra
+vegetarian dish,shahi tukra
+shahi tukra meetha,shahi tukra
+telangana sweet,shahi tukra
+punjab dish,vegetable jalfrezi
+vegetable jalfrezi main course,vegetable jalfrezi
+french beans spicy,vegetable jalfrezi
+punjab spicy,vegetable jalfrezi
+vegetable jalfrezi,vegetable jalfrezi
+french beans teekha,vegetable jalfrezi
+baby corn teekha,vegetable jalfrezi
+spicy main course,vegetable jalfrezi
+shakahari main course,vegetable jalfrezi
+shakahari dish,vegetable jalfrezi
+baby corn main course,vegetable jalfrezi
+vegetarian main course,vegetable jalfrezi
+french beans main course,vegetable jalfrezi
+teekha main course,vegetable jalfrezi
+vegetarian dish,vegetable jalfrezi
+punjab teekha,vegetable jalfrezi
+baby corn spicy,vegetable jalfrezi
+tandoori chicken,tandoori chicken
+punjab dish,tandoori chicken
+non shakahari main course,tandoori chicken
+greek yogurt main course,tandoori chicken
+punjab spicy,tandoori chicken
+greek yogurt teekha,tandoori chicken
+spicy main course,tandoori chicken
+teekha main course,tandoori chicken
+garam masala main course,tandoori chicken
+greek yogurt spicy,tandoori chicken
+tandoori chicken main course,tandoori chicken
+non vegetarian main course,tandoori chicken
+garam masala spicy,tandoori chicken
+punjab teekha,tandoori chicken
+non shakahari dish,tandoori chicken
+garam masala teekha,tandoori chicken
+non vegetarian dish,tandoori chicken
+spicy starter,tandoori fish tikka
+chickpea flour starter,tandoori fish tikka
+punjab dish,tandoori fish tikka
+biryani masala powder spicy,tandoori fish tikka
+punjab spicy,tandoori fish tikka
+tandoori fish tikka,tandoori fish tikka
+non vegetarian starter,tandoori fish tikka
+non shakahari starter,tandoori fish tikka
+biryani masala powder starter,tandoori fish tikka
+non shakahari dish,tandoori fish tikka
+biryani masala powder teekha,tandoori fish tikka
+chickpea flour teekha,tandoori fish tikka
+chickpea flour spicy,tandoori fish tikka
+punjab teekha,tandoori fish tikka
+teekha starter,tandoori fish tikka
+tandoori fish,tandoori fish tikka
+non vegetarian dish,tandoori fish tikka
+tandoori fish tikka starter,tandoori fish tikka
+arhar dal teekha,attu
+arhar dal spicy,attu
+arhar dal snack,attu
+andhra pradesh dish,attu
+attu,attu
+shakahari dish,attu
+whole wheat flour snack,attu
+whole wheat flour teekha,attu
+andhra pradesh teekha,attu
+vegetarian snack,attu
+andhra pradesh spicy,attu
+whole wheat flour spicy,attu
+shakahari snack,attu
+teekha snack,attu
+vegetarian dish,attu
+spicy snack,attu
+attu snack,attu
+elephant foot yam spicy,avial
+kerala dish,avial
+elephant foot yam teekha,avial
+avial main course,avial
+raw banana spicy,avial
+kerala teekha,avial
+spicy main course,avial
+shakahari main course,avial
+shakahari dish,avial
+vegetarian main course,avial
+raw banana teekha,avial
+avial,avial
+raw banana main course,avial
+elephant foot yam main course,avial
+kerala spicy,avial
+teekha main course,avial
+vegetarian dish,avial
+bisi bele,bisi bele bath
+bisi bele bath main course,bisi bele bath
+chana dal spicy,bisi bele bath
+spicy main course,bisi bele bath
+karnataka spicy,bisi bele bath
+split pigeon peas spicy,bisi bele bath
+chana dal teekha,bisi bele bath
+karnataka teekha,bisi bele bath
+vegetarian main course,bisi bele bath
+karnataka dish,bisi bele bath
+bisi bele bath,bisi bele bath
+teekha main course,bisi bele bath
+split pigeon peas teekha,bisi bele bath
+shakahari main course,bisi bele bath
+shakahari dish,bisi bele bath
+chana dal main course,bisi bele bath
+split pigeon peas main course,bisi bele bath
+vegetarian dish,bisi bele bath
+currivepillai sadam,currivepillai sadam
+chana dal spicy,currivepillai sadam
+tamil nadu teekha,currivepillai sadam
+urad dal spicy,currivepillai sadam
+spicy main course,currivepillai sadam
+urad dal main course,currivepillai sadam
+chana dal teekha,currivepillai sadam
+shakahari main course,currivepillai sadam
+urad dal teekha,currivepillai sadam
+vegetarian main course,currivepillai sadam
+teekha main course,currivepillai sadam
+tamil nadu dish,currivepillai sadam
+currivepillai sadam main course,currivepillai sadam
+shakahari dish,currivepillai sadam
+chana dal main course,currivepillai sadam
+tamil nadu spicy,currivepillai sadam
+vegetarian dish,currivepillai sadam
+chana dal spicy,dosa
+urad dal spicy,dosa
+unknown spicy,dosa
+chana dal teekha,dosa
+shakahari snack,dosa
+dosa,dosa
+urad dal teekha,dosa
+shakahari dish,dosa
+urad dal snack,dosa
+chana dal snack,dosa
+vegetarian snack,dosa
+unknown dish,dosa
+unknown teekha,dosa
+teekha snack,dosa
+vegetarian dish,dosa
+spicy snack,dosa
+dosa snack,dosa
+tamil nadu teekha,idiappam
+idiappam snack,idiappam
+rice flour spicy,idiappam
+hot water spicy,idiappam
+rice flour teekha,idiappam
+hot water teekha,idiappam
+teekha snack,idiappam
+shakahari dish,idiappam
+idiappam,idiappam
+hot water snack,idiappam
+rice flour snack,idiappam
+tamil nadu dish,idiappam
+vegetarian snack,idiappam
+shakahari snack,idiappam
+tamil nadu spicy,idiappam
+vegetarian dish,idiappam
+spicy snack,idiappam
+idli,idli
+spicy snack,idli
+urad dal spicy,idli
+unknown spicy,idli
+idli snack,idli
+split urad dal teekha,idli
+shakahari snack,idli
+urad dal teekha,idli
+shakahari dish,idli
+urad dal snack,idli
+vegetarian snack,idli
+unknown dish,idli
+unknown teekha,idli
+split urad dal snack,idli
+teekha snack,idli
+vegetarian dish,idli
+split urad dal spicy,idli
+kerala dish,kanji
+yellow mustard snack,kanji
+kerala unknown,kanji
+carrot unknown,kanji
+kanji,kanji
+yellow mustard unknown,kanji
+shakahari dish,kanji
+unknown snack,kanji
+carrot snack,kanji
+vegetarian snack,kanji
+shakahari snack,kanji
+vegetarian dish,kanji
+kanji snack,kanji
+tamil nadu teekha,kaara kozhambu
+sesame oil main course,kaara kozhambu
+spicy main course,kaara kozhambu
+shakahari main course,kaara kozhambu
+kaara kozhambu main course,kaara kozhambu
+kaara kozhambu,kaara kozhambu
+sesame oil spicy,kaara kozhambu
+drumstick main course,kaara kozhambu
+vegetarian main course,kaara kozhambu
+drumstick spicy,kaara kozhambu
+tamil nadu dish,kaara kozhambu
+teekha main course,kaara kozhambu
+shakahari dish,kaara kozhambu
+tamil nadu spicy,kaara kozhambu
+vegetarian dish,kaara kozhambu
+drumstick teekha,kaara kozhambu
+sesame oil teekha,kaara kozhambu
+chana dal spicy,keerai kootu
+tamil nadu teekha,keerai kootu
+moong dal spicy,keerai kootu
+spicy main course,keerai kootu
+chana dal teekha,keerai kootu
+moong dal teekha,keerai kootu
+shakahari main course,keerai kootu
+shakahari dish,keerai kootu
+keerai kootu,keerai kootu
+vegetarian main course,keerai kootu
+tamil nadu dish,keerai kootu
+teekha main course,keerai kootu
+moong dal main course,keerai kootu
+chana dal main course,keerai kootu
+tamil nadu spicy,keerai kootu
+vegetarian dish,keerai kootu
+keerai kootu main course,keerai kootu
+curry leaves spicy,keerai masiyal
+keerai masiyal main course,keerai masiyal
+tamil nadu teekha,keerai masiyal
+urad dal spicy,keerai masiyal
+spicy main course,keerai masiyal
+urad dal main course,keerai masiyal
+shakahari main course,keerai masiyal
+shakahari dish,keerai masiyal
+urad dal teekha,keerai masiyal
+vegetarian main course,keerai masiyal
+teekha main course,keerai masiyal
+curry leaves main course,keerai masiyal
+keerai masiyal,keerai masiyal
+tamil nadu dish,keerai masiyal
+curry leaves teekha,keerai masiyal
+tamil nadu spicy,keerai masiyal
+vegetarian dish,keerai masiyal
+tomato teekha,keerai sadam
+tamil nadu teekha,keerai sadam
+greens teekha,keerai sadam
+keerai sadam main course,keerai sadam
+spicy main course,keerai sadam
+shakahari main course,keerai sadam
+shakahari dish,keerai sadam
+vegetarian main course,keerai sadam
+keerai sadam,keerai sadam
+greens spicy,keerai sadam
+tamil nadu dish,keerai sadam
+teekha main course,keerai sadam
+greens main course,keerai sadam
+tamil nadu spicy,keerai sadam
+vegetarian dish,keerai sadam
+tomato spicy,keerai sadam
+tomato main course,keerai sadam
+amaranth leaves main course,keerai poriyal
+tamil nadu teekha,keerai poriyal
+spicy main course,keerai poriyal
+shakahari main course,keerai poriyal
+keerai poriyal,keerai poriyal
+shakahari dish,keerai poriyal
+split urad dal teekha,keerai poriyal
+vegetarian main course,keerai poriyal
+teekha main course,keerai poriyal
+tamil nadu dish,keerai poriyal
+keerai poriyal main course,keerai poriyal
+split urad dal main course,keerai poriyal
+amaranth leaves spicy,keerai poriyal
+tamil nadu spicy,keerai poriyal
+vegetarian dish,keerai poriyal
+split urad dal spicy,keerai poriyal
+amaranth leaves teekha,keerai poriyal
+beef fry main course,beef fry
+kerala dish,beef fry
+beef teekha,beef fry
+beef spicy,beef fry
+non shakahari main course,beef fry
+kerala teekha,beef fry
+spicy main course,beef fry
+beef fry,beef fry
+coconut spicy,beef fry
+teekha main course,beef fry
+coconut main course,beef fry
+non shakahari dish,beef fry
+non vegetarian main course,beef fry
+kerala spicy,beef fry
+beef main course,beef fry
+coconut teekha,beef fry
+non vegetarian dish,beef fry
+kootu main course,kootu
+chana dal spicy,kootu
+tamil nadu teekha,kootu
+urad dal spicy,kootu
+spicy main course,kootu
+urad dal main course,kootu
+chana dal teekha,kootu
+shakahari main course,kootu
+kootu,kootu
+vegetarian main course,kootu
+urad dal teekha,kootu
+tamil nadu dish,kootu
+teekha main course,kootu
+shakahari dish,kootu
+chana dal main course,kootu
+tamil nadu spicy,kootu
+vegetarian dish,kootu
+kos kootu,kos kootu
+chana dal spicy,kos kootu
+tamil nadu teekha,kos kootu
+moong dal spicy,kos kootu
+spicy main course,kos kootu
+chana dal teekha,kos kootu
+moong dal teekha,kos kootu
+shakahari main course,kos kootu
+shakahari dish,kos kootu
+vegetarian main course,kos kootu
+kos kootu main course,kos kootu
+tamil nadu dish,kos kootu
+teekha main course,kos kootu
+moong dal main course,kos kootu
+chana dal main course,kos kootu
+tamil nadu spicy,kos kootu
+vegetarian dish,kos kootu
+cucumber main course,koshambri
+cucumber teekha,koshambri
+moong dal spicy,koshambri
+koshambri,koshambri
+spicy main course,koshambri
+karnataka spicy,koshambri
+moong dal teekha,koshambri
+karnataka teekha,koshambri
+shakahari main course,koshambri
+vegetarian main course,koshambri
+karnataka dish,koshambri
+teekha main course,koshambri
+koshambri main course,koshambri
+shakahari dish,koshambri
+moong dal main course,koshambri
+cucumber spicy,koshambri
+vegetarian dish,koshambri
+chana dal spicy,kothamali sadam
+tamil nadu teekha,kothamali sadam
+urad dal spicy,kothamali sadam
+kothamali sadam,kothamali sadam
+spicy main course,kothamali sadam
+urad dal main course,kothamali sadam
+chana dal teekha,kothamali sadam
+shakahari main course,kothamali sadam
+urad dal teekha,kothamali sadam
+kothamali sadam main course,kothamali sadam
+vegetarian main course,kothamali sadam
+tamil nadu dish,kothamali sadam
+teekha main course,kothamali sadam
+shakahari dish,kothamali sadam
+chana dal main course,kothamali sadam
+tamil nadu spicy,kothamali sadam
+vegetarian dish,kothamali sadam
+kuzhakkattai main course,kuzhakkattai
+raw rice teekha,kuzhakkattai
+sesame oil main course,kuzhakkattai
+tamil nadu teekha,kuzhakkattai
+raw rice spicy,kuzhakkattai
+spicy main course,kuzhakkattai
+shakahari main course,kuzhakkattai
+shakahari dish,kuzhakkattai
+kuzhakkattai,kuzhakkattai
+sesame oil spicy,kuzhakkattai
+vegetarian main course,kuzhakkattai
+tamil nadu dish,kuzhakkattai
+teekha main course,kuzhakkattai
+raw rice main course,kuzhakkattai
+tamil nadu spicy,kuzhakkattai
+vegetarian dish,kuzhakkattai
+sesame oil teekha,kuzhakkattai
+pearl onions spicy,kuzhambu
+tamil nadu teekha,kuzhambu
+urad dal spicy,kuzhambu
+kuzhambu,kuzhambu
+spicy main course,kuzhambu
+urad dal main course,kuzhambu
+shakahari main course,kuzhambu
+shakahari dish,kuzhambu
+kuzhambu main course,kuzhambu
+vegetarian main course,kuzhambu
+urad dal teekha,kuzhambu
+tamil nadu dish,kuzhambu
+teekha main course,kuzhambu
+pearl onions teekha,kuzhambu
+tamil nadu spicy,kuzhambu
+vegetarian dish,kuzhambu
+pearl onions main course,kuzhambu
+chana dal spicy,masala dosa
+masala dosa,masala dosa
+urad dal spicy,masala dosa
+unknown spicy,masala dosa
+chana dal teekha,masala dosa
+shakahari snack,masala dosa
+urad dal teekha,masala dosa
+shakahari dish,masala dosa
+masala dosa snack,masala dosa
+urad dal snack,masala dosa
+chana dal snack,masala dosa
+vegetarian snack,masala dosa
+unknown dish,masala dosa
+unknown teekha,masala dosa
+teekha snack,masala dosa
+vegetarian dish,masala dosa
+spicy snack,masala dosa
+cucumber main course,pachadi
+pachadi,pachadi
+unknown main course,pachadi
+coconut oil unknown,pachadi
+coconut oil main course,pachadi
+cucumber unknown,pachadi
+shakahari main course,pachadi
+shakahari dish,pachadi
+vegetarian main course,pachadi
+unknown unknown,pachadi
+unknown dish,pachadi
+vegetarian dish,pachadi
+pachadi main course,pachadi
+ginger main course,paniyaram
+tamil nadu unknown,paniyaram
+unknown main course,paniyaram
+yogurt main course,paniyaram
+yogurt unknown,paniyaram
+paniyaram main course,paniyaram
+shakahari main course,paniyaram
+shakahari dish,paniyaram
+vegetarian main course,paniyaram
+tamil nadu dish,paniyaram
+paniyaram,paniyaram
+ginger unknown,paniyaram
+vegetarian dish,paniyaram
+kerala dish,papadum
+black pepper snack,papadum
+papadum snack,papadum
+kerala teekha,papadum
+lentils teekha,papadum
+black pepper teekha,papadum
+shakahari dish,papadum
+papadum,papadum
+lentils spicy,papadum
+kerala spicy,papadum
+vegetarian snack,papadum
+lentils snack,papadum
+shakahari snack,papadum
+teekha snack,papadum
+black pepper spicy,papadum
+vegetarian dish,papadum
+spicy snack,papadum
+kerala dish,paravannam
+jaggery main course,paravannam
+jaggery spicy,paravannam
+paravannam main course,paravannam
+raw rice teekha,paravannam
+kerala teekha,paravannam
+raw rice spicy,paravannam
+spicy main course,paravannam
+shakahari main course,paravannam
+shakahari dish,paravannam
+vegetarian main course,paravannam
+teekha main course,paravannam
+kerala spicy,paravannam
+jaggery teekha,paravannam
+raw rice main course,paravannam
+vegetarian dish,paravannam
+paravannam,paravannam
+meetha meetha,payasam
+rice sweet,payasam
+shakahari meetha,payasam
+unknown meetha,payasam
+payasam meetha,payasam
+sweet dessert,payasam
+rice meetha,payasam
+shakahari dish,payasam
+cashew nuts meetha,payasam
+cashew nuts sweet,payasam
+payasam dessert,payasam
+rice dessert,payasam
+vegetarian dessert,payasam
+payasam,payasam
+unknown sweet,payasam
+vegetarian dish,payasam
+cashew nuts dessert,payasam
+unknown dish,payasam
+tamil nadu unknown,paruppu sadam
+unknown main course,paruppu sadam
+arhar dal unknown,paruppu sadam
+shakahari main course,paruppu sadam
+shakahari dish,paruppu sadam
+sambar powder main course,paruppu sadam
+vegetarian main course,paruppu sadam
+tamil nadu dish,paruppu sadam
+paruppu sadam,paruppu sadam
+sambar powder unknown,paruppu sadam
+paruppu sadam main course,paruppu sadam
+vegetarian dish,paruppu sadam
+arhar dal main course,paruppu sadam
+rice flour spicy,pesarattu
+rice flour teekha,pesarattu
+andhra pradesh dish,pesarattu
+shakahari dish,pesarattu
+pesarattu,pesarattu
+rice flour snack,pesarattu
+andhra pradesh teekha,pesarattu
+vegetarian snack,pesarattu
+green moong beans snack,pesarattu
+andhra pradesh spicy,pesarattu
+shakahari snack,pesarattu
+teekha snack,pesarattu
+green moong beans spicy,pesarattu
+vegetarian dish,pesarattu
+spicy snack,pesarattu
+green moong beans teekha,pesarattu
+pesarattu snack,pesarattu
+poriyal main course,poriyal
+chana dal spicy,poriyal
+tamil nadu teekha,poriyal
+urad dal spicy,poriyal
+spicy main course,poriyal
+urad dal main course,poriyal
+chana dal teekha,poriyal
+shakahari main course,poriyal
+poriyal,poriyal
+vegetarian main course,poriyal
+urad dal teekha,poriyal
+tamil nadu dish,poriyal
+teekha main course,poriyal
+shakahari dish,poriyal
+chana dal main course,poriyal
+tamil nadu spicy,poriyal
+vegetarian dish,poriyal
+tamil nadu unknown,puli sadam
+unknown main course,puli sadam
+puli sadam,puli sadam
+urad dal main course,puli sadam
+shakahari main course,puli sadam
+lemon unknown,puli sadam
+shakahari dish,puli sadam
+vegetarian main course,puli sadam
+urad dal unknown,puli sadam
+puli sadam main course,puli sadam
+tamil nadu dish,puli sadam
+lemon main course,puli sadam
+vegetarian dish,puli sadam
+curry leaves spicy,rasam
+tomato teekha,rasam
+unknown spicy,rasam
+rasam,rasam
+spicy main course,rasam
+shakahari main course,rasam
+shakahari dish,rasam
+vegetarian main course,rasam
+teekha main course,rasam
+curry leaves main course,rasam
+unknown teekha,rasam
+unknown dish,rasam
+curry leaves teekha,rasam
+rasam main course,rasam
+vegetarian dish,rasam
+tomato spicy,rasam
+tomato main course,rasam
+kerala dish,puttu
+brown rice flour unknown,puttu
+unknown main course,puttu
+puttu,puttu
+puttu main course,puttu
+kerala unknown,puttu
+sugar main course,puttu
+shakahari main course,puttu
+shakahari dish,puttu
+vegetarian main course,puttu
+sugar unknown,puttu
+brown rice flour main course,puttu
+vegetarian dish,puttu
+eggplant main course,sambar
+eggplant teekha,sambar
+pigeon peas main course,sambar
+unknown spicy,sambar
+eggplant spicy,sambar
+spicy main course,sambar
+pigeon peas spicy,sambar
+shakahari main course,sambar
+shakahari dish,sambar
+vegetarian main course,sambar
+teekha main course,sambar
+unknown teekha,sambar
+unknown dish,sambar
+sambar,sambar
+pigeon peas teekha,sambar
+sambar main course,sambar
+vegetarian dish,sambar
+karnataka unknown,sandige
+thin rice flakes main course,sandige
+unknown main course,sandige
+shakahari main course,sandige
+shakahari dish,sandige
+sandige main course,sandige
+thin rice flakes unknown,sandige
+black sesame seeds unknown,sandige
+vegetarian main course,sandige
+karnataka dish,sandige
+sandige,sandige
+black sesame seeds main course,sandige
+vegetarian dish,sandige
+sevai unknown,sevai
+unknown main course,sevai
+shakahari main course,sevai
+shakahari dish,sevai
+vegetarian main course,sevai
+unknown unknown,sevai
+unknown dish,sevai
+parboiled rice main course,sevai
+sevai,sevai
+vegetarian dish,sevai
+parboiled rice unknown,sevai
+sevai main course,sevai
+curd main course,thayir sadam
+tamil nadu unknown,thayir sadam
+unknown main course,thayir sadam
+thayir sadam,thayir sadam
+urad dal main course,thayir sadam
+thayir sadam main course,thayir sadam
+shakahari main course,thayir sadam
+shakahari dish,thayir sadam
+vegetarian main course,thayir sadam
+urad dal unknown,thayir sadam
+tamil nadu dish,thayir sadam
+curd unknown,thayir sadam
+vegetarian dish,thayir sadam
+kerala dish,theeyal
+whole red beans unknown,theeyal
+unknown main course,theeyal
+kerala unknown,theeyal
+shakahari main course,theeyal
+coconut unknown,theeyal
+shakahari dish,theeyal
+whole red beans main course,theeyal
+theeyal,theeyal
+coconut main course,theeyal
+vegetarian main course,theeyal
+theeyal main course,theeyal
+vegetarian dish,theeyal
+chana dal spicy,uttapam
+urad dal spicy,uttapam
+unknown spicy,uttapam
+teekha snack,uttapam
+chana dal teekha,uttapam
+shakahari snack,uttapam
+urad dal teekha,uttapam
+shakahari dish,uttapam
+uttapam snack,uttapam
+urad dal snack,uttapam
+chana dal snack,uttapam
+uttapam,uttapam
+vegetarian snack,uttapam
+unknown dish,uttapam
+unknown teekha,uttapam
+vegetarian dish,uttapam
+spicy snack,uttapam
+ginger teekha,vada
+vada,vada
+urad dal spicy,vada
+unknown spicy,vada
+shakahari snack,vada
+urad dal teekha,vada
+ginger spicy,vada
+vada snack,vada
+shakahari dish,vada
+urad dal snack,vada
+vegetarian snack,vada
+unknown dish,vada
+ginger snack,vada
+unknown teekha,vada
+teekha snack,vada
+vegetarian dish,vada
+spicy snack,vada
+meat curry powder main course,chicken varuval
+tamil nadu teekha,chicken varuval
+non shakahari main course,chicken varuval
+chicken chunks teekha,chicken varuval
+meat curry powder teekha,chicken varuval
+chicken chunks main course,chicken varuval
+spicy main course,chicken varuval
+teekha main course,chicken varuval
+non shakahari dish,chicken varuval
+tamil nadu dish,chicken varuval
+non vegetarian main course,chicken varuval
+chicken varuval,chicken varuval
+chicken chunks spicy,chicken varuval
+tamil nadu spicy,chicken varuval
+chicken varuval main course,chicken varuval
+non vegetarian dish,chicken varuval
+meat curry powder spicy,chicken varuval
+chana dal spicy,upma
+urad dal spicy,upma
+upma,upma
+unknown spicy,upma
+upma snack,upma
+chana dal teekha,upma
+shakahari snack,upma
+urad dal teekha,upma
+shakahari dish,upma
+urad dal snack,upma
+chana dal snack,upma
+vegetarian snack,upma
+unknown dish,upma
+unknown teekha,upma
+teekha snack,upma
+vegetarian dish,upma
+spicy snack,upma
+maharashtra teekha,amti
+kala masala main course,amti
+maharashtra spicy,amti
+arhar dal spicy,amti
+kala masala spicy,amti
+arhar dal teekha,amti
+amti main course,amti
+spicy main course,amti
+shakahari main course,amti
+shakahari dish,amti
+vegetarian main course,amti
+teekha main course,amti
+maharashtra dish,amti
+amti,amti
+vegetarian dish,amti
+kala masala teekha,amti
+arhar dal main course,amti
+mustard spicy,zunka
+mustard main course,zunka
+gram flour main course,zunka
+maharashtra teekha,zunka
+maharashtra spicy,zunka
+gram flour teekha,zunka
+spicy main course,zunka
+zunka,zunka
+shakahari main course,zunka
+shakahari dish,zunka
+vegetarian main course,zunka
+teekha main course,zunka
+maharashtra dish,zunka
+zunka main course,zunka
+gram flour spicy,zunka
+mustard teekha,zunka
+vegetarian dish,zunka
+baingan spicy,kolim jawla
+fish main course,kolim jawla
+maharashtra teekha,kolim jawla
+maharashtra spicy,kolim jawla
+non shakahari main course,kolim jawla
+kolim jawla main course,kolim jawla
+baingan main course,kolim jawla
+spicy main course,kolim jawla
+teekha main course,kolim jawla
+fish spicy,kolim jawla
+maharashtra dish,kolim jawla
+non vegetarian main course,kolim jawla
+baingan teekha,kolim jawla
+fish teekha,kolim jawla
+non shakahari dish,kolim jawla
+kolim jawla,kolim jawla
+non vegetarian dish,kolim jawla
+potatoes spicy,saath
+urad dal spicy,saath
+gujarat dish,saath
+potatoes teekha,saath
+spicy main course,saath
+urad dal main course,saath
+shakahari main course,saath
+shakahari dish,saath
+urad dal teekha,saath
+vegetarian main course,saath
+gujarat teekha,saath
+saath main course,saath
+teekha main course,saath
+gujarat spicy,saath
+saath,saath
+vegetarian dish,saath
+potatoes main course,saath
+wheat flour main course,bajri no rotlo
+wheat flour spicy,bajri no rotlo
+pearl millet flour spicy,bajri no rotlo
+gujarat dish,bajri no rotlo
+bajri no,bajri no rotlo
+bajri no rotlo main course,bajri no rotlo
+spicy main course,bajri no rotlo
+shakahari main course,bajri no rotlo
+bajri no rotlo,bajri no rotlo
+wheat flour teekha,bajri no rotlo
+vegetarian main course,bajri no rotlo
+teekha main course,bajri no rotlo
+gujarat teekha,bajri no rotlo
+shakahari dish,bajri no rotlo
+pearl millet flour main course,bajri no rotlo
+gujarat spicy,bajri no rotlo
+vegetarian dish,bajri no rotlo
+pearl millet flour teekha,bajri no rotlo
+meetha meetha,coconut vadi
+shakahari meetha,coconut vadi
+mawa sweet,coconut vadi
+mawa meetha,coconut vadi
+condensed milk meetha,coconut vadi
+coconut vadi meetha,coconut vadi
+maharashtra meetha,coconut vadi
+sweet dessert,coconut vadi
+condensed milk sweet,coconut vadi
+coconut vadi,coconut vadi
+shakahari dish,coconut vadi
+maharashtra dish,coconut vadi
+maharashtra sweet,coconut vadi
+vegetarian dessert,coconut vadi
+mawa dessert,coconut vadi
+vegetarian dish,coconut vadi
+condensed milk dessert,coconut vadi
+coconut vadi dessert,coconut vadi
+jowar flour main course,bhakri
+bhakri main course,bhakri
+unknown main course,bhakri
+bhakri,bhakri
+sesame seeds main course,bhakri
+shakahari main course,bhakri
+shakahari dish,bhakri
+vegetarian main course,bhakri
+maharashtra unknown,bhakri
+maharashtra dish,bhakri
+vegetarian dish,bhakri
+jowar flour unknown,bhakri
+sesame seeds unknown,bhakri
+maharashtra teekha,bombil fry
+bombay duck main course,bombil fry
+bombay duck spicy,bombil fry
+maharashtra spicy,bombil fry
+non shakahari main course,bombil fry
+bombay duck teekha,bombil fry
+spicy main course,bombil fry
+teekha main course,bombil fry
+malvani masala spicy,bombil fry
+maharashtra dish,bombil fry
+non vegetarian main course,bombil fry
+malvani masala teekha,bombil fry
+non shakahari dish,bombil fry
+bombil fry main course,bombil fry
+bombil fry,bombil fry
+non vegetarian dish,bombil fry
+malvani masala main course,bombil fry
+maharashtra teekha,chakali
+maharashtra spicy,chakali
+chakali snack,chakali
+rice flour spicy,chakali
+rice flour teekha,chakali
+teekha snack,chakali
+sesame snack,chakali
+chakali,chakali
+shakahari dish,chakali
+maharashtra dish,chakali
+rice flour snack,chakali
+sesame teekha,chakali
+vegetarian snack,chakali
+shakahari snack,chakali
+sesame spicy,chakali
+vegetarian dish,chakali
+spicy snack,chakali
+citric acid snack,chevdo
+spicy snack,chevdo
+chevdo,chevdo
+fry snack,chevdo
+fry teekha,chevdo
+gujarat dish,chevdo
+teekha snack,chevdo
+citric acid teekha,chevdo
+shakahari dish,chevdo
+gujarat teekha,chevdo
+vegetarian snack,chevdo
+shakahari snack,chevdo
+gujarat spicy,chevdo
+fry spicy,chevdo
+vegetarian dish,chevdo
+citric acid spicy,chevdo
+chevdo snack,chevdo
+chorafali,chorafali
+urad dal spicy,chorafali
+gujarat dish,chorafali
+bengal gram flour teekha,chorafali
+teekha snack,chorafali
+shakahari dish,chorafali
+urad dal teekha,chorafali
+chorafali snack,chorafali
+gujarat teekha,chorafali
+bengal gram flour spicy,chorafali
+urad dal snack,chorafali
+bengal gram flour snack,chorafali
+vegetarian snack,chorafali
+shakahari snack,chorafali
+gujarat spicy,chorafali
+vegetarian dish,chorafali
+spicy snack,chorafali
+gujarat unknown,copra paak
+unknown main course,copra paak
+gujarat dish,copra paak
+nestle cream unknown,copra paak
+shakahari main course,copra paak
+condensed milk main course,copra paak
+shakahari dish,copra paak
+copra paak,copra paak
+vegetarian main course,copra paak
+copra paak main course,copra paak
+condensed milk unknown,copra paak
+nestle cream main course,copra paak
+vegetarian dish,copra paak
+whole wheat flour main course,daal dhokli
+gujarat dish,daal dhokli
+dal main course,daal dhokli
+spicy main course,daal dhokli
+daal dhokli,daal dhokli
+shakahari main course,daal dhokli
+shakahari dish,daal dhokli
+vegetarian main course,daal dhokli
+teekha main course,daal dhokli
+whole wheat flour teekha,daal dhokli
+gujarat teekha,daal dhokli
+daal dhokli main course,daal dhokli
+whole wheat flour spicy,daal dhokli
+dal teekha,daal dhokli
+gujarat spicy,daal dhokli
+vegetarian dish,daal dhokli
+dal spicy,daal dhokli
+aloo spicy,kutchi dabeli
+aloo teekha,kutchi dabeli
+kutchi dabeli,kutchi dabeli
+gujarat dish,kutchi dabeli
+kutchi dabeli snack,kutchi dabeli
+teekha snack,kutchi dabeli
+aloo snack,kutchi dabeli
+pav spicy,kutchi dabeli
+pav snack,kutchi dabeli
+gujarat teekha,kutchi dabeli
+shakahari dish,kutchi dabeli
+vegetarian snack,kutchi dabeli
+shakahari snack,kutchi dabeli
+gujarat spicy,kutchi dabeli
+vegetarian dish,kutchi dabeli
+spicy snack,kutchi dabeli
+pav teekha,kutchi dabeli
+shakahari snack,dahi vada
+bhuna chana unknown,dahi vada
+shakahari dish,dahi vada
+maharashtra unknown,dahi vada
+urad dal unknown,dahi vada
+maharashtra dish,dahi vada
+urad dal snack,dahi vada
+unknown snack,dahi vada
+bhuna chana snack,dahi vada
+vegetarian snack,dahi vada
+dahi vada snack,dahi vada
+vegetarian dish,dahi vada
+dahi vada,dahi vada
+unknown main course,dalithoy
+arhar dal unknown,dalithoy
+coconut oil unknown,dalithoy
+dalithoy,dalithoy
+coconut oil main course,dalithoy
+shakahari main course,dalithoy
+shakahari dish,dalithoy
+vegetarian main course,dalithoy
+maharashtra unknown,dalithoy
+maharashtra dish,dalithoy
+dalithoy main course,dalithoy
+vegetarian dish,dalithoy
+arhar dal main course,dalithoy
+dhokla snack,dhokla
+gujarat dish,dhokla
+rava teekha,dhokla
+teekha snack,dhokla
+coconut spicy,dhokla
+shakahari snack,dhokla
+rava snack,dhokla
+gujarat teekha,dhokla
+shakahari dish,dhokla
+vegetarian snack,dhokla
+coconut snack,dhokla
+coconut teekha,dhokla
+dhokla,dhokla
+gujarat spicy,dhokla
+vegetarian dish,dhokla
+spicy snack,dhokla
+rava spicy,dhokla
+green meetha,dudhi halwa
+shakahari meetha,dudhi halwa
+meetha meetha,dudhi halwa
+gujarat dish,dudhi halwa
+bottle gourd dessert,dudhi halwa
+gujarat sweet,dudhi halwa
+bottle gourd meetha,dudhi halwa
+sweet dessert,dudhi halwa
+dudhi halwa meetha,dudhi halwa
+shakahari dish,dudhi halwa
+dudhi halwa dessert,dudhi halwa
+bottle gourd sweet,dudhi halwa
+dudhi halwa,dudhi halwa
+green dessert,dudhi halwa
+vegetarian dessert,dudhi halwa
+gujarat meetha,dudhi halwa
+green sweet,dudhi halwa
+vegetarian dish,dudhi halwa
+rajasthan spicy,gatta curry
+besan spicy,gatta curry
+besan teekha,gatta curry
+gatta curry main course,gatta curry
+gatta curry,gatta curry
+yogurt teekha,gatta curry
+yogurt main course,gatta curry
+spicy main course,gatta curry
+shakahari main course,gatta curry
+rajasthan teekha,gatta curry
+besan main course,gatta curry
+vegetarian main course,gatta curry
+teekha main course,gatta curry
+shakahari dish,gatta curry
+yogurt spicy,gatta curry
+vegetarian dish,gatta curry
+rajasthan dish,gatta curry
+wheat flour sweet,gud papdi
+gud papdi,gud papdi
+jaggery meetha,gud papdi
+jaggery sweet,gud papdi
+wheat flour meetha,gud papdi
+shakahari meetha,gud papdi
+gujarat dish,gud papdi
+gujarat sweet,gud papdi
+sweet dessert,gud papdi
+shakahari dish,gud papdi
+wheat flour dessert,gud papdi
+gud papdi dessert,gud papdi
+vegetarian dessert,gud papdi
+gud papdi meetha,gud papdi
+gujarat meetha,gud papdi
+meetha meetha,gud papdi
+vegetarian dish,gud papdi
+jaggery dessert,gud papdi
+dry fruits spicy,ghooghra
+semolina teekha,ghooghra
+semolina snack,ghooghra
+ghooghra snack,ghooghra
+semolina spicy,ghooghra
+gujarat dish,ghooghra
+teekha snack,ghooghra
+shakahari dish,ghooghra
+ghooghra,ghooghra
+gujarat teekha,ghooghra
+dry fruits snack,ghooghra
+vegetarian snack,ghooghra
+shakahari snack,ghooghra
+gujarat spicy,ghooghra
+vegetarian dish,ghooghra
+spicy snack,ghooghra
+dry fruits teekha,ghooghra
+chana dal spicy,handwo
+bottle gourd teekha,handwo
+gujarat dish,handwo
+bottle gourd spicy,handwo
+teekha snack,handwo
+chana dal teekha,handwo
+shakahari snack,handwo
+shakahari dish,handwo
+gujarat teekha,handwo
+chana dal snack,handwo
+vegetarian snack,handwo
+bottle gourd snack,handwo
+handwo,handwo
+gujarat spicy,handwo
+vegetarian dish,handwo
+spicy snack,handwo
+handwo snack,handwo
+shakahari meetha,halvasan
+whole wheat rava meetha,halvasan
+chia seed sweet,halvasan
+chia seed dessert,halvasan
+halvasan dessert,halvasan
+gujarat dish,halvasan
+halvasan,halvasan
+gujarat sweet,halvasan
+sweet dessert,halvasan
+shakahari dish,halvasan
+chia seed meetha,halvasan
+whole wheat rava sweet,halvasan
+vegetarian dessert,halvasan
+whole wheat rava dessert,halvasan
+gujarat meetha,halvasan
+meetha meetha,halvasan
+vegetarian dish,halvasan
+halvasan meetha,halvasan
+green chilies main course,jeera aloo
+lemon juice teekha,jeera aloo
+gujarat dish,jeera aloo
+spicy main course,jeera aloo
+green chilies spicy,jeera aloo
+shakahari main course,jeera aloo
+jeera aloo,jeera aloo
+shakahari dish,jeera aloo
+jeera aloo main course,jeera aloo
+vegetarian main course,jeera aloo
+gujarat teekha,jeera aloo
+teekha main course,jeera aloo
+green chilies teekha,jeera aloo
+vegetarian dish,jeera aloo
+lemon juice spicy,jeera aloo
+gujarat spicy,jeera aloo
+lemon juice main course,jeera aloo
+wheat flour main course,kansar
+gujarat unknown,kansar
+unknown main course,kansar
+gujarat dish,kansar
+kansar main course,kansar
+kansar,kansar
+wheat flour unknown,kansar
+shakahari main course,kansar
+shakahari dish,kansar
+cashews main course,kansar
+vegetarian main course,kansar
+cashews unknown,kansar
+vegetarian dish,kansar
+keri no,keri no ras
+mango main course,keri no ras
+sugar sour,keri no ras
+mango sour,keri no ras
+gujarat dish,keri no ras
+sour main course,keri no ras
+sugar main course,keri no ras
+shakahari main course,keri no ras
+shakahari dish,keri no ras
+keri no ras,keri no ras
+keri no ras main course,keri no ras
+vegetarian main course,keri no ras
+gujarat sour,keri no ras
+vegetarian dish,keri no ras
+khakhra,khakhra
+low fat snack,khakhra
+gujarat dish,khakhra
+teekha snack,khakhra
+khakhra snack,khakhra
+low fat spicy,khakhra
+shakahari dish,khakhra
+whole wheat flour snack,khakhra
+whole wheat flour teekha,khakhra
+gujarat teekha,khakhra
+vegetarian snack,khakhra
+low fat teekha,khakhra
+whole wheat flour spicy,khakhra
+shakahari snack,khakhra
+gujarat spicy,khakhra
+vegetarian dish,khakhra
+spicy snack,khakhra
+khandvi,khandvi
+khandvi snack,khandvi
+green chili paste snack,khandvi
+green chili paste teekha,khandvi
+gujarat dish,khandvi
+white sesame seeds snack,khandvi
+teekha snack,khandvi
+shakahari snack,khandvi
+shakahari dish,khandvi
+white sesame seeds teekha,khandvi
+gujarat teekha,khandvi
+vegetarian snack,khandvi
+white sesame seeds spicy,khandvi
+gujarat spicy,khandvi
+vegetarian dish,khandvi
+spicy snack,khandvi
+green chili paste spicy,khandvi
+maharashtra teekha,kombdi vade
+kombdi vade,kombdi vade
+maharashtra spicy,kombdi vade
+urad dal spicy,kombdi vade
+rice flour spicy,kombdi vade
+rice flour teekha,kombdi vade
+shakahari dish,kombdi vade
+urad dal teekha,kombdi vade
+maharashtra dish,kombdi vade
+rice flour snack,kombdi vade
+urad dal snack,kombdi vade
+vegetarian snack,kombdi vade
+kombdi vade snack,kombdi vade
+shakahari snack,kombdi vade
+teekha snack,kombdi vade
+vegetarian dish,kombdi vade
+spicy snack,kombdi vade
+jaggery main course,laapsi
+jaggery spicy,laapsi
+laapsi main course,laapsi
+cinnamon teekha,laapsi
+cinnamon spicy,laapsi
+madhya pradesh teekha,laapsi
+cinnamon main course,laapsi
+spicy main course,laapsi
+shakahari main course,laapsi
+madhya pradesh spicy,laapsi
+shakahari dish,laapsi
+vegetarian main course,laapsi
+teekha main course,laapsi
+laapsi,laapsi
+jaggery teekha,laapsi
+vegetarian dish,laapsi
+madhya pradesh dish,laapsi
+cucumber main course,koshimbir
+carrot spicy,koshimbir
+maharashtra teekha,koshimbir
+cucumber teekha,koshimbir
+maharashtra spicy,koshimbir
+carrot main course,koshimbir
+spicy main course,koshimbir
+shakahari main course,koshimbir
+shakahari dish,koshimbir
+carrot teekha,koshimbir
+vegetarian main course,koshimbir
+teekha main course,koshimbir
+maharashtra dish,koshimbir
+cucumber spicy,koshimbir
+koshimbir main course,koshimbir
+vegetarian dish,koshimbir
+koshimbir,koshimbir
+methi na,methi na gota
+gram flour main course,methi na gota
+gujarat dish,methi na gota
+rava main course,methi na gota
+methi na gota,methi na gota
+shakahari main course,methi na gota
+shakahari dish,methi na gota
+vegetarian main course,methi na gota
+rava bitter,methi na gota
+gram flour bitter,methi na gota
+methi na gota main course,methi na gota
+vegetarian dish,methi na gota
+bitter main course,methi na gota
+gujarat bitter,methi na gota
+rose water sweet,mohanthal
+pistachio sweet,mohanthal
+shakahari meetha,mohanthal
+meetha meetha,mohanthal
+gujarat dish,mohanthal
+rose water dessert,mohanthal
+gujarat sweet,mohanthal
+sweet dessert,mohanthal
+mohanthal meetha,mohanthal
+shakahari dish,mohanthal
+mohanthal dessert,mohanthal
+mohanthal,mohanthal
+vegetarian dessert,mohanthal
+rose water meetha,mohanthal
+gujarat meetha,mohanthal
+pistachio meetha,mohanthal
+vegetarian dish,mohanthal
+pistachio dessert,mohanthal
+whole wheat flour bitter,muthiya
+bitter snack,muthiya
+gujarat dish,muthiya
+shakahari dish,muthiya
+whole wheat flour snack,muthiya
+muthiya snack,muthiya
+muthiya,muthiya
+vegetarian snack,muthiya
+bottle gourd snack,muthiya
+shakahari snack,muthiya
+vegetarian dish,muthiya
+bottle gourd bitter,muthiya
+gujarat bitter,muthiya
+sesame seeds snack,patra
+spicy snack,patra
+patra snack,patra
+gujarat dish,patra
+teekha snack,patra
+patra,patra
+shakahari dish,patra
+gujarat teekha,patra
+arbi ke patte spicy,patra
+sesame seeds teekha,patra
+vegetarian snack,patra
+arbi ke patte teekha,patra
+shakahari snack,patra
+gujarat spicy,patra
+vegetarian dish,patra
+sesame seeds spicy,patra
+arbi ke patte snack,patra
+maharashtra teekha,pav bhaji
+maharashtra spicy,pav bhaji
+pav bhaji main course,pav bhaji
+pav bhaji,pav bhaji
+gobi main course,pav bhaji
+spicy main course,pav bhaji
+shakahari main course,pav bhaji
+shakahari dish,pav bhaji
+vegetarian main course,pav bhaji
+teekha main course,pav bhaji
+maharashtra dish,pav bhaji
+pav bhaji masala main course,pav bhaji
+pav bhaji masala spicy,pav bhaji
+pav bhaji masala teekha,pav bhaji
+gobi teekha,pav bhaji
+gobi spicy,pav bhaji
+vegetarian dish,pav bhaji
+maharashtra teekha,puri bhaji
+aloo spicy,puri bhaji
+aloo teekha,puri bhaji
+maharashtra spicy,puri bhaji
+urad dal spicy,puri bhaji
+aloo main course,puri bhaji
+puri bhaji main course,puri bhaji
+spicy main course,puri bhaji
+urad dal main course,puri bhaji
+shakahari main course,puri bhaji
+shakahari dish,puri bhaji
+urad dal teekha,puri bhaji
+vegetarian main course,puri bhaji
+teekha main course,puri bhaji
+maharashtra dish,puri bhaji
+puri bhaji,puri bhaji
+vegetarian dish,puri bhaji
+maharashtra teekha,sabudana khichadi
+maharashtra spicy,sabudana khichadi
+sabudana khichadi,sabudana khichadi
+sabudana snack,sabudana khichadi
+raw peanuts teekha,sabudana khichadi
+teekha snack,sabudana khichadi
+shakahari dish,sabudana khichadi
+maharashtra dish,sabudana khichadi
+sabudana khichadi snack,sabudana khichadi
+sabudana spicy,sabudana khichadi
+vegetarian snack,sabudana khichadi
+raw peanuts spicy,sabudana khichadi
+raw peanuts snack,sabudana khichadi
+shakahari snack,sabudana khichadi
+sabudana teekha,sabudana khichadi
+vegetarian dish,sabudana khichadi
+spicy snack,sabudana khichadi
+khaman main course,sev khamani
+sev khamani main course,sev khamani
+gujarat dish,sev khamani
+spicy main course,sev khamani
+sev khamani,sev khamani
+shakahari main course,sev khamani
+shakahari dish,sev khamani
+pomegranate spicy,sev khamani
+vegetarian main course,sev khamani
+teekha main course,sev khamani
+pomegranate teekha,sev khamani
+gujarat teekha,sev khamani
+khaman spicy,sev khamani
+pomegranate main course,sev khamani
+gujarat spicy,sev khamani
+vegetarian dish,sev khamani
+khaman teekha,sev khamani
+sev main course,sev tameta
+ginger teekha,sev tameta
+sev tameta main course,sev tameta
+ginger main course,sev tameta
+sev tameta,sev tameta
+gujarat dish,sev tameta
+spicy main course,sev tameta
+shakahari main course,sev tameta
+shakahari dish,sev tameta
+ginger spicy,sev tameta
+vegetarian main course,sev tameta
+teekha main course,sev tameta
+gujarat teekha,sev tameta
+sev teekha,sev tameta
+gujarat spicy,sev tameta
+vegetarian dish,sev tameta
+sev spicy,sev tameta
+baking soda snack,namakpara
+wheat flour spicy,namakpara
+gujarat dish,namakpara
+baking soda spicy,namakpara
+teekha snack,namakpara
+shakahari dish,namakpara
+wheat flour teekha,namakpara
+namakpara snack,namakpara
+gujarat teekha,namakpara
+namakpara,namakpara
+vegetarian snack,namakpara
+wheat flour snack,namakpara
+shakahari snack,namakpara
+gujarat spicy,namakpara
+baking soda teekha,namakpara
+vegetarian dish,namakpara
+spicy snack,namakpara
+gur meetha,sukhdi
+shakahari meetha,sukhdi
+maharashtra meetha,sukhdi
+sweet dessert,sukhdi
+whole wheat flour sweet,sukhdi
+gur sweet,sukhdi
+shakahari dish,sukhdi
+gur dessert,sukhdi
+maharashtra dish,sukhdi
+sukhdi,sukhdi
+maharashtra sweet,sukhdi
+vegetarian dessert,sukhdi
+whole wheat flour meetha,sukhdi
+sukhdi meetha,sukhdi
+whole wheat flour dessert,sukhdi
+meetha meetha,sukhdi
+vegetarian dish,sukhdi
+sukhdi dessert,sukhdi
+rice flakes snack,surnoli
+maharashtra teekha,surnoli
+maharashtra spicy,surnoli
+rice flakes teekha,surnoli
+surnoli,surnoli
+yogurt teekha,surnoli
+rice flakes spicy,surnoli
+shakahari dish,surnoli
+maharashtra dish,surnoli
+surnoli snack,surnoli
+yogurt spicy,surnoli
+vegetarian snack,surnoli
+yogurt snack,surnoli
+shakahari snack,surnoli
+teekha snack,surnoli
+vegetarian dish,surnoli
+spicy snack,surnoli
+maharashtra teekha,thalipeeth
+whole wheat flour main course,thalipeeth
+maharashtra spicy,thalipeeth
+thalipeeth,thalipeeth
+rice flour main course,thalipeeth
+rice flour spicy,thalipeeth
+rice flour teekha,thalipeeth
+spicy main course,thalipeeth
+shakahari main course,thalipeeth
+shakahari dish,thalipeeth
+vegetarian main course,thalipeeth
+teekha main course,thalipeeth
+maharashtra dish,thalipeeth
+whole wheat flour teekha,thalipeeth
+whole wheat flour spicy,thalipeeth
+vegetarian dish,thalipeeth
+thalipeeth main course,thalipeeth
+surti papdi main course,undhiyu
+undhiyu,undhiyu
+surti papdi teekha,undhiyu
+surti papdi spicy,undhiyu
+sweet potato spicy,undhiyu
+gujarat dish,undhiyu
+spicy main course,undhiyu
+shakahari main course,undhiyu
+meetha potato main course,undhiyu
+shakahari dish,undhiyu
+sweet potato main course,undhiyu
+vegetarian main course,undhiyu
+gujarat teekha,undhiyu
+meetha potato teekha,undhiyu
+teekha main course,undhiyu
+undhiyu main course,undhiyu
+gujarat spicy,undhiyu
+vegetarian dish,undhiyu
+maharashtra teekha,veg kolhapuri
+maharashtra spicy,veg kolhapuri
+potato spicy,veg kolhapuri
+gobi main course,veg kolhapuri
+spicy main course,veg kolhapuri
+shakahari main course,veg kolhapuri
+shakahari dish,veg kolhapuri
+vegetarian main course,veg kolhapuri
+teekha main course,veg kolhapuri
+maharashtra dish,veg kolhapuri
+potato main course,veg kolhapuri
+potato teekha,veg kolhapuri
+gobi teekha,veg kolhapuri
+veg kolhapuri,veg kolhapuri
+gobi spicy,veg kolhapuri
+vegetarian dish,veg kolhapuri
+veg kolhapuri main course,veg kolhapuri
+goa teekha,vindaloo
+non shakahari main course,vindaloo
+goa spicy,vindaloo
+vindaloo,vindaloo
+spicy main course,vindaloo
+chicken spicy,vindaloo
+coconut oil main course,vindaloo
+chicken main course,vindaloo
+teekha main course,vindaloo
+chicken teekha,vindaloo
+non shakahari dish,vindaloo
+non vegetarian main course,vindaloo
+vindaloo main course,vindaloo
+coconut oil spicy,vindaloo
+coconut oil teekha,vindaloo
+non vegetarian dish,vindaloo
+goa dish,vindaloo
+fresh green peas snack,lilva kachori
+lilva kachori snack,lilva kachori
+green garlic chutney teekha,lilva kachori
+gujarat dish,lilva kachori
+lilva kachori,lilva kachori
+fresh green peas spicy,lilva kachori
+green garlic chutney snack,lilva kachori
+fresh green peas teekha,lilva kachori
+shakahari dish,lilva kachori
+teekha snack,lilva kachori
+green garlic chutney spicy,lilva kachori
+gujarat teekha,lilva kachori
+vegetarian snack,lilva kachori
+shakahari snack,lilva kachori
+gujarat spicy,lilva kachori
+vegetarian dish,lilva kachori
+spicy snack,lilva kachori
+jaggery snack,mag dhokli
+jaggery spicy,mag dhokli
+gujarat dish,mag dhokli
+moong beans snack,mag dhokli
+mag dhokli snack,mag dhokli
+moong beans spicy,mag dhokli
+teekha snack,mag dhokli
+shakahari dish,mag dhokli
+moong beans teekha,mag dhokli
+gujarat teekha,mag dhokli
+mag dhokli,mag dhokli
+vegetarian snack,mag dhokli
+jaggery teekha,mag dhokli
+shakahari snack,mag dhokli
+gujarat spicy,mag dhokli
+vegetarian dish,mag dhokli
+spicy snack,mag dhokli
+sesame seeds snack,khichu
+spicy snack,khichu
+rice flour spicy,khichu
+rice flour teekha,khichu
+gujarat dish,khichu
+teekha snack,khichu
+shakahari dish,khichu
+khichu,khichu
+gujarat teekha,khichu
+rice flour snack,khichu
+sesame seeds teekha,khichu
+vegetarian snack,khichu
+shakahari snack,khichu
+gujarat spicy,khichu
+khichu snack,khichu
+vegetarian dish,khichu
+sesame seeds spicy,khichu
+methi leaves snack,thepla
+methi leaves spicy,thepla
+gujarat dish,thepla
+teekha snack,thepla
+thepla snack,thepla
+shakahari dish,thepla
+chickpea flour snack,thepla
+chickpea flour teekha,thepla
+gujarat teekha,thepla
+methi leaves teekha,thepla
+thepla,thepla
+vegetarian snack,thepla
+shakahari snack,thepla
+gujarat spicy,thepla
+vegetarian dish,thepla
+spicy snack,thepla
+chickpea flour spicy,thepla
+semolina snack,farsi puri
+gujarat unknown,farsi puri
+gujarat dish,farsi puri
+farsi puri snack,farsi puri
+shakahari dish,farsi puri
+unknown snack,farsi puri
+semolina unknown,farsi puri
+vegetarian snack,farsi puri
+shakahari snack,farsi puri
+clarified butter snack,farsi puri
+vegetarian dish,farsi puri
+farsi puri,farsi puri
+clarified butter unknown,farsi puri
+yogurt teekha,khaman
+gujarat dish,khaman
+teekha snack,khaman
+khaman snack,khaman
+shakahari dish,khaman
+gujarat teekha,khaman
+yogurt spicy,khaman
+fresh coconut teekha,khaman
+khaman,khaman
+vegetarian snack,khaman
+yogurt snack,khaman
+shakahari snack,khaman
+gujarat spicy,khaman
+fresh coconut snack,khaman
+vegetarian dish,khaman
+spicy snack,khaman
+fresh coconut spicy,khaman
+turiya patra vatana sabji,turiya patra vatana sabji
+gujarat dish,turiya patra vatana sabji
+spicy main course,turiya patra vatana sabji
+turiya patra,turiya patra vatana sabji
+baking soda spicy,turiya patra vatana sabji
+ridge gourd spicy,turiya patra vatana sabji
+shakahari main course,turiya patra vatana sabji
+vegetarian main course,turiya patra vatana sabji
+teekha main course,turiya patra vatana sabji
+gujarat teekha,turiya patra vatana sabji
+ridge gourd teekha,turiya patra vatana sabji
+shakahari dish,turiya patra vatana sabji
+turiya patra vatana sabji main course,turiya patra vatana sabji
+baking soda main course,turiya patra vatana sabji
+ridge gourd main course,turiya patra vatana sabji
+gujarat spicy,turiya patra vatana sabji
+baking soda teekha,turiya patra vatana sabji
+vegetarian dish,turiya patra vatana sabji
+shakahari meetha,churma ladoo
+khus khus sweet,churma ladoo
+khus khus meetha,churma ladoo
+rajasthan meetha,churma ladoo
+churma ladoo meetha,churma ladoo
+sweet dessert,churma ladoo
+whole wheat flour sweet,churma ladoo
+rajasthan sweet,churma ladoo
+shakahari dish,churma ladoo
+churma ladoo dessert,churma ladoo
+churma ladoo,churma ladoo
+vegetarian dessert,churma ladoo
+whole wheat flour meetha,churma ladoo
+whole wheat flour dessert,churma ladoo
+meetha meetha,churma ladoo
+vegetarian dish,churma ladoo
+khus khus dessert,churma ladoo
+rajasthan dish,churma ladoo
+rice sweet,cheera doi
+mango dessert,cheera doi
+shakahari meetha,cheera doi
+cheera doi,cheera doi
+west bengal meetha,cheera doi
+west bengal sweet,cheera doi
+mango sweet,cheera doi
+cheera doi meetha,cheera doi
+west bengal dish,cheera doi
+cheera doi dessert,cheera doi
+sweet dessert,cheera doi
+rice meetha,cheera doi
+mango meetha,cheera doi
+shakahari dish,cheera doi
+vegetarian dessert,cheera doi
+rice dessert,cheera doi
+meetha meetha,cheera doi
+vegetarian dish,cheera doi
+rice flour sweet,gheela pitha
+shakahari meetha,gheela pitha
+assam sweet,gheela pitha
+assam meetha,gheela pitha
+rice flour dessert,gheela pitha
+gheela pitha,gheela pitha
+sticky rice dessert,gheela pitha
+gheela pitha meetha,gheela pitha
+sticky rice sweet,gheela pitha
+sweet dessert,gheela pitha
+shakahari dish,gheela pitha
+rice flour meetha,gheela pitha
+gheela pitha dessert,gheela pitha
+vegetarian dessert,gheela pitha
+assam dish,gheela pitha
+sticky rice meetha,gheela pitha
+meetha meetha,gheela pitha
+vegetarian dish,gheela pitha
+panch phoran masala main course,khar
+unknown main course,khar
+khar,khar
+shakahari main course,khar
+raw papaya main course,khar
+shakahari dish,khar
+vegetarian main course,khar
+panch phoran masala unknown,khar
+khar main course,khar
+assam dish,khar
+raw papaya unknown,khar
+vegetarian dish,khar
+assam unknown,khar
+non shakahari main course,kumol sawul
+assam spicy,kumol sawul
+eggs main course,kumol sawul
+assam teekha,kumol sawul
+kumol sawul main course,kumol sawul
+spicy main course,kumol sawul
+kumol sawul,kumol sawul
+rice main course,kumol sawul
+eggs spicy,kumol sawul
+teekha main course,kumol sawul
+non vegetarian main course,kumol sawul
+eggs teekha,kumol sawul
+rice teekha,kumol sawul
+rice spicy,kumol sawul
+assam dish,kumol sawul
+non shakahari dish,kumol sawul
+non vegetarian dish,kumol sawul
+luchi,luchi
+unknown main course,luchi
+maida unknown,luchi
+west bengal dish,luchi
+shakahari main course,luchi
+shakahari dish,luchi
+vegetarian main course,luchi
+maida main course,luchi
+luchi main course,luchi
+west bengal unknown,luchi
+vegetable oil unknown,luchi
+vegetarian dish,luchi
+vegetable oil main course,luchi
+potatoes spicy,alu pitika
+potatoes main course,alu pitika
+non shakahari main course,alu pitika
+assam spicy,alu pitika
+assam teekha,alu pitika
+alu pitika,alu pitika
+alu pitika main course,alu pitika
+spicy main course,alu pitika
+teekha main course,alu pitika
+non vegetarian main course,alu pitika
+mustard oil teekha,alu pitika
+mustard oil spicy,alu pitika
+assam dish,alu pitika
+non shakahari dish,alu pitika
+potatoes teekha,alu pitika
+mustard oil main course,alu pitika
+non vegetarian dish,alu pitika
+fish main course,masor tenga
+non shakahari main course,masor tenga
+assam spicy,masor tenga
+masor tenga,masor tenga
+assam teekha,masor tenga
+spicy main course,masor tenga
+ridge gourd spicy,masor tenga
+teekha main course,masor tenga
+fish spicy,masor tenga
+non shakahari dish,masor tenga
+non vegetarian main course,masor tenga
+ridge gourd teekha,masor tenga
+fish teekha,masor tenga
+ridge gourd main course,masor tenga
+assam dish,masor tenga
+masor tenga main course,masor tenga
+non vegetarian dish,masor tenga
+unknown main course,bengena pitika
+brinjal main course,bengena pitika
+shakahari main course,bengena pitika
+shakahari dish,bengena pitika
+vegetarian main course,bengena pitika
+onions unknown,bengena pitika
+bengena pitika,bengena pitika
+bengena pitika main course,bengena pitika
+assam dish,bengena pitika
+onions main course,bengena pitika
+vegetarian dish,bengena pitika
+brinjal unknown,bengena pitika
+assam unknown,bengena pitika
+potatoes main course,bilahi maas
+bilahi maas main course,bilahi maas
+non shakahari main course,bilahi maas
+unknown main course,bilahi maas
+garam masala unknown,bilahi maas
+garam masala main course,bilahi maas
+potatoes unknown,bilahi maas
+non vegetarian main course,bilahi maas
+non shakahari dish,bilahi maas
+assam dish,bilahi maas
+bilahi maas,bilahi maas
+non vegetarian dish,bilahi maas
+assam unknown,bilahi maas
+non shakahari main course,black rice
+unknown main course,black rice
+forbidden black rice unknown,black rice
+chicken unknown,black rice
+chicken main course,black rice
+black rice main course,black rice
+non vegetarian main course,black rice
+manipur unknown,black rice
+manipur dish,black rice
+non shakahari dish,black rice
+forbidden black rice main course,black rice
+non vegetarian dish,black rice
+black rice,black rice
+biryani masala main course,bora sawul
+assam spicy,bora sawul
+bora sawul main course,bora sawul
+assam teekha,bora sawul
+mixed vegetables teekha,bora sawul
+spicy main course,bora sawul
+shakahari main course,bora sawul
+mixed vegetables spicy,bora sawul
+shakahari dish,bora sawul
+vegetarian main course,bora sawul
+teekha main course,bora sawul
+biryani masala teekha,bora sawul
+bora sawul,bora sawul
+biryani masala spicy,bora sawul
+assam dish,bora sawul
+vegetarian dish,bora sawul
+mixed vegetables main course,bora sawul
+soy sauce main course,brown rice
+unknown main course,brown rice
+brown rice,brown rice
+soy sauce unknown,brown rice
+shakahari main course,brown rice
+shakahari dish,brown rice
+vegetarian main course,brown rice
+unknown unknown,brown rice
+brown rice main course,brown rice
+unknown dish,brown rice
+vegetarian dish,brown rice
+brown rice unknown,brown rice
+coconut milk spicy,chingri malai curry
+lobster teekha,chingri malai curry
+non shakahari main course,chingri malai curry
+lobster main course,chingri malai curry
+spicy main course,chingri malai curry
+west bengal dish,chingri malai curry
+coconut milk main course,chingri malai curry
+chingri malai curry main course,chingri malai curry
+teekha main course,chingri malai curry
+coconut milk teekha,chingri malai curry
+chingri malai,chingri malai curry
+non vegetarian main course,chingri malai curry
+west bengal teekha,chingri malai curry
+west bengal spicy,chingri malai curry
+non shakahari dish,chingri malai curry
+chingri malai curry,chingri malai curry
+non vegetarian dish,chingri malai curry
+lobster spicy,chingri malai curry
+shakahari meetha,goja
+west bengal meetha,goja
+west bengal sweet,goja
+clarified butter dessert,goja
+west bengal dish,goja
+clarified butter sweet,goja
+goja dessert,goja
+sweet dessert,goja
+clarified butter meetha,goja
+goja meetha,goja
+baking soda meetha,goja
+baking soda sweet,goja
+shakahari dish,goja
+vegetarian dessert,goja
+baking soda dessert,goja
+meetha meetha,goja
+vegetarian dish,goja
+goja,goja
+meetha meetha,hando guri
+shakahari meetha,hando guri
+assam sweet,hando guri
+hando guri,hando guri
+jaggery sweet,hando guri
+raisins sweet,hando guri
+raisins dessert,hando guri
+jaggery meetha,hando guri
+assam meetha,hando guri
+sweet dessert,hando guri
+shakahari dish,hando guri
+raisins meetha,hando guri
+hando guri meetha,hando guri
+vegetarian dessert,hando guri
+assam dish,hando guri
+hando guri dessert,hando guri
+vegetarian dish,hando guri
+jaggery dessert,hando guri
+haq maas main course,haq maas
+lamb spicy,haq maas
+haq maas,haq maas
+non shakahari main course,haq maas
+assam spicy,haq maas
+lamb main course,haq maas
+assam teekha,haq maas
+garam masala powder main course,haq maas
+spicy main course,haq maas
+garam masala powder spicy,haq maas
+teekha main course,haq maas
+non vegetarian main course,haq maas
+assam dish,haq maas
+non shakahari dish,haq maas
+lamb teekha,haq maas
+non vegetarian dish,haq maas
+garam masala powder teekha,haq maas
+prawns unknown,chingri bhape
+non shakahari main course,chingri bhape
+unknown main course,chingri bhape
+prawns main course,chingri bhape
+chingri bhape main course,chingri bhape
+coconut unknown,chingri bhape
+west bengal dish,chingri bhape
+coconut main course,chingri bhape
+non vegetarian main course,chingri bhape
+west bengal unknown,chingri bhape
+non shakahari dish,chingri bhape
+chingri bhape,chingri bhape
+non vegetarian dish,chingri bhape
+besan spicy,kabiraji
+besan teekha,kabiraji
+non shakahari main course,kabiraji
+spicy main course,kabiraji
+west bengal dish,kabiraji
+besan main course,kabiraji
+teekha main course,kabiraji
+kabiraji main course,kabiraji
+non vegetarian main course,kabiraji
+fish fillet main course,kabiraji
+fish fillet spicy,kabiraji
+west bengal spicy,kabiraji
+west bengal teekha,kabiraji
+fish fillet teekha,kabiraji
+non shakahari dish,kabiraji
+kabiraji,kabiraji
+non vegetarian dish,kabiraji
+fermented bamboo shoot main course,khorisa
+assam spicy,khorisa
+fermented bamboo shoot spicy,khorisa
+potato spicy,khorisa
+assam teekha,khorisa
+fermented bamboo shoot teekha,khorisa
+spicy main course,khorisa
+shakahari main course,khorisa
+shakahari dish,khorisa
+vegetarian main course,khorisa
+teekha main course,khorisa
+khorisa,khorisa
+potato main course,khorisa
+potato teekha,khorisa
+assam dish,khorisa
+vegetarian dish,khorisa
+khorisa main course,khorisa
+banana flower teekha,koldil chicken
+non shakahari main course,koldil chicken
+assam spicy,koldil chicken
+assam teekha,koldil chicken
+spicy main course,koldil chicken
+chicken spicy,koldil chicken
+chicken main course,koldil chicken
+teekha main course,koldil chicken
+koldil chicken,koldil chicken
+chicken teekha,koldil chicken
+non vegetarian main course,koldil chicken
+banana flower spicy,koldil chicken
+koldil chicken main course,koldil chicken
+assam dish,koldil chicken
+non shakahari dish,koldil chicken
+banana flower main course,koldil chicken
+non vegetarian dish,koldil chicken
+aloo spicy,konir dom
+aloo teekha,konir dom
+non shakahari main course,konir dom
+assam spicy,konir dom
+assam teekha,konir dom
+aloo main course,konir dom
+konir dom main course,konir dom
+spicy main course,konir dom
+teekha main course,konir dom
+non vegetarian main course,konir dom
+tomatoes teekha,konir dom
+tomatoes main course,konir dom
+tomatoes spicy,konir dom
+konir dom,konir dom
+assam dish,konir dom
+non shakahari dish,konir dom
+non vegetarian dish,konir dom
+non shakahari main course,koldil duck
+assam spicy,koldil duck
+rice flour main course,koldil duck
+rice flour spicy,koldil duck
+mutton main course,koldil duck
+assam teekha,koldil duck
+rice flour teekha,koldil duck
+spicy main course,koldil duck
+mutton spicy,koldil duck
+mutton teekha,koldil duck
+teekha main course,koldil duck
+non vegetarian main course,koldil duck
+koldil duck main course,koldil duck
+assam dish,koldil duck
+non shakahari dish,koldil duck
+koldil duck,koldil duck
+non vegetarian dish,koldil duck
+fish roe main course,masor koni
+assam spicy,masor koni
+masor koni main course,masor koni
+assam teekha,masor koni
+pumpkin flowers teekha,masor koni
+masor koni,masor koni
+non shakahari main course,masor koni
+spicy main course,masor koni
+pumpkin flowers main course,masor koni
+fish roe teekha,masor koni
+teekha main course,masor koni
+pumpkin flowers spicy,masor koni
+fish roe spicy,masor koni
+non vegetarian main course,masor koni
+assam dish,masor koni
+non shakahari dish,masor koni
+non vegetarian dish,masor koni
+chana dal main course,mishti chholar dal
+west bengal meetha,mishti chholar dal
+west bengal sweet,mishti chholar dal
+fresh coconut main course,mishti chholar dal
+fresh coconut sweet,mishti chholar dal
+west bengal dish,mishti chholar dal
+fresh coconut meetha,mishti chholar dal
+meetha main course,mishti chholar dal
+vegetarian main course,mishti chholar dal
+shakahari main course,mishti chholar dal
+shakahari dish,mishti chholar dal
+chana dal meetha,mishti chholar dal
+sweet main course,mishti chholar dal
+mishti chholar dal main course,mishti chholar dal
+mishti chholar,mishti chholar dal
+vegetarian dish,mishti chholar dal
+chana dal sweet,mishti chholar dal
+mishti chholar dal,mishti chholar dal
+curd main course,pakhala
+odisha unknown,pakhala
+cooked rice unknown,pakhala
+unknown main course,pakhala
+cooked rice main course,pakhala
+shakahari main course,pakhala
+pakhala,pakhala
+shakahari dish,pakhala
+vegetarian main course,pakhala
+pakhala main course,pakhala
+curd unknown,pakhala
+odisha dish,pakhala
+vegetarian dish,pakhala
+white sesame seeds main course,pani pitha
+white sesame seeds unknown,pani pitha
+unknown main course,pani pitha
+pani pitha main course,pani pitha
+shakahari main course,pani pitha
+shakahari dish,pani pitha
+tea leaves main course,pani pitha
+pani pitha,pani pitha
+vegetarian main course,pani pitha
+assam dish,pani pitha
+tea leaves unknown,pani pitha
+vegetarian dish,pani pitha
+assam unknown,pani pitha
+rose water sweet,payokh
+meetha meetha,payokh
+shakahari meetha,payokh
+assam sweet,payokh
+basmati rice dessert,payokh
+assam meetha,payokh
+payokh meetha,payokh
+rose water dessert,payokh
+basmati rice sweet,payokh
+shakahari dish,payokh
+vegetarian dish,payokh
+payokh,payokh
+vegetarian dessert,payokh
+payokh dessert,payokh
+assam dish,payokh
+rose water meetha,payokh
+sweet dessert,payokh
+basmati rice meetha,payokh
+coconut milk spicy,prawn malai curry
+prawn malai curry,prawn malai curry
+non shakahari main course,prawn malai curry
+prawns teekha,prawn malai curry
+prawns spicy,prawn malai curry
+prawns main course,prawn malai curry
+spicy main course,prawn malai curry
+west bengal dish,prawn malai curry
+coconut milk main course,prawn malai curry
+teekha main course,prawn malai curry
+coconut milk teekha,prawn malai curry
+non vegetarian main course,prawn malai curry
+west bengal teekha,prawn malai curry
+prawn malai,prawn malai curry
+west bengal spicy,prawn malai curry
+non shakahari dish,prawn malai curry
+prawn malai curry main course,prawn malai curry
+non vegetarian dish,prawn malai curry
+red pepper main course,red rice
+unknown main course,red rice
+shakahari main course,red rice
+red rice main course,red rice
+shakahari dish,red rice
+vegetarian main course,red rice
+unknown unknown,red rice
+red pepper unknown,red rice
+unknown dish,red rice
+red rice,red rice
+red onion main course,red rice
+vegetarian dish,red rice
+red onion unknown,red rice
+bitter gourd teekha,shukto
+green beans teekha,shukto
+shukto main course,shukto
+green beans main course,shukto
+spicy main course,shukto
+west bengal dish,shukto
+shakahari main course,shukto
+shakahari dish,shukto
+bitter gourd spicy,shukto
+vegetarian main course,shukto
+teekha main course,shukto
+west bengal teekha,shukto
+green beans spicy,shukto
+bitter gourd main course,shukto
+shukto,shukto
+vegetarian dish,shukto
+west bengal spicy,shukto
+black sesame seeds meetha,til pitha
+shakahari meetha,til pitha
+assam sweet,til pitha
+assam meetha,til pitha
+til pitha meetha,til pitha
+til pitha,til pitha
+glutinous rice dessert,til pitha
+black sesame seeds sweet,til pitha
+til pitha dessert,til pitha
+glutinous rice meetha,til pitha
+glutinous rice sweet,til pitha
+sweet dessert,til pitha
+shakahari dish,til pitha
+vegetarian dessert,til pitha
+black sesame seeds dessert,til pitha
+assam dish,til pitha
+meetha meetha,til pitha
+vegetarian dish,til pitha
+shakahari meetha,bebinca
+bebinca meetha,bebinca
+bebinca,bebinca
+goa meetha,bebinca
+coconut milk dessert,bebinca
+coconut milk sweet,bebinca
+egg yolks dessert,bebinca
+egg yolks sweet,bebinca
+sweet dessert,bebinca
+egg yolks meetha,bebinca
+shakahari dish,bebinca
+bebinca dessert,bebinca
+vegetarian dessert,bebinca
+coconut milk meetha,bebinca
+goa sweet,bebinca
+meetha meetha,bebinca
+vegetarian dish,bebinca
+goa dish,bebinca
+shakahari meetha,shufta
+jammu kashmir sweet,shufta
+shufta meetha,shufta
+shufta,shufta
+dry dates dessert,shufta
+jammu kashmir meetha,shufta
+cottage cheese sweet,shufta
+sweet dessert,shufta
+dry dates meetha,shufta
+shakahari dish,shufta
+shufta dessert,shufta
+vegetarian dessert,shufta
+dry dates sweet,shufta
+cottage cheese meetha,shufta
+meetha meetha,shufta
+vegetarian dish,shufta
+jammu kashmir dish,shufta
+cottage cheese dessert,shufta
+dry fruits meetha,mawa bati
+shakahari meetha,mawa bati
+mawa bati dessert,mawa bati
+mawa bati,mawa bati
+milk powder dessert,mawa bati
+mawa bati meetha,mawa bati
+milk powder sweet,mawa bati
+sweet dessert,mawa bati
+shakahari dish,mawa bati
+dry fruits sweet,mawa bati
+vegetarian dessert,mawa bati
+madhya pradesh sweet,mawa bati
+madhya pradesh meetha,mawa bati
+milk powder meetha,mawa bati
+meetha meetha,mawa bati
+vegetarian dish,mawa bati
+dry fruits dessert,mawa bati
+madhya pradesh dish,mawa bati
+meetha meetha,pinaca
+shakahari meetha,pinaca
+brown rice meetha,pinaca
+goa meetha,pinaca
+brown rice dessert,pinaca
+sweet dessert,pinaca
+shakahari dish,pinaca
+fennel seeds meetha,pinaca
+pinaca meetha,pinaca
+vegetarian dessert,pinaca
+fennel seeds sweet,pinaca
+fennel seeds dessert,pinaca
+brown rice sweet,pinaca
+pinaca dessert,pinaca
+goa sweet,pinaca
+vegetarian dish,pinaca
+goa dish,pinaca
+pinaca,pinaca
